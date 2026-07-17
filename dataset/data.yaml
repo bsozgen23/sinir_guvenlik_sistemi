@@ -1,0 +1,22 @@
+# Sinir Guvenlik Sistemi - YOLO veri seti tanimi
+#
+# Sinif sirasi mevcut best.pt modelinden dogrulanmistir. Sirayi degistirme,
+# etiketlerdeki sinif ID'leri bu siraya gore yazilmis.
+#
+# NOT: Egitimde "Dataset not found" hatasi alirsan asagidaki 'path' satirini
+# bu klasorun tam yolu ile degistir. Ornek:
+#   path: C:/Users/seyda/Downloads/sinir_guvenlik_sistemi/dataset
+
+path: .
+train: images/train
+val: images/val
+test: images/test
+
+nc: 6
+names:
+  0: Tufek
+  1: asker
+  2: bazuka
+  3: bicak
+  4: sniper
+  5: tabanca
