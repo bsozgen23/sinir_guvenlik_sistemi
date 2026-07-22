@@ -1,22 +1,13 @@
-# Sinir Guvenlik Sistemi - YOLO veri seti tanimi
-#
-# Sinif sirasi mevcut best.pt modelinden dogrulanmistir. Sirayi degistirme,
-# etiketlerdeki sinif ID'leri bu siraya gore yazilmis.
-#
-# NOT: Egitimde "Dataset not found" hatasi alirsan asagidaki 'path' satirini
-# bu klasorun tam yolu ile degistir. Ornek:
-#   path: C:/Users/seyda/Downloads/sinir_guvenlik_sistemi/dataset
+train: ../train/images
+val: ../valid/images
+test: ../test/images
 
-path: .
-train: images/train
-val: images/val
-test: images/test
+nc: 7
+names: ['Handgun', 'Knife', 'Missile', 'Rifle', 'Shotgun', 'Sword', 'Tank']
 
-nc: 6
-names:
-  0: Tufek
-  1: asker
-  2: bazuka
-  3: bicak
-  4: sniper
-  5: tabanca
+roboflow:
+  workspace: weopon-detection
+  project: weapon-detection-using-yolov8
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/weopon-detection/weapon-detection-using-yolov8/dataset/1

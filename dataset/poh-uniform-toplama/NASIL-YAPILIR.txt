@@ -1,0 +1,57 @@
+POH ÜNİFORMA VERİ SETİ - ELLE OLUŞTURMA REHBERİ
+================================================
+
+HEDEF: ~100-200 çeşitli POH taktik üniforması görseli topla, etiketle,
+       silah veri setiyle birleştir.
+
+--------------------------------------------------
+ADIM 1 — GÖRSEL TOPLA (bu klasöre koy)
+--------------------------------------------------
+Görselleri buraya (poh-uniform-toplama/) indir. Her görseli TEK TEK,
+lisansına bakarak seç. Toplu indirme (scraping) YOK.
+
+Uygun kaynaklar:
+  - EGM (Emniyet Genel Müdürlüğü) resmi basın/medya sayfaları
+    (kullanım şartlarına bak)
+  - Wikimedia Commons (serbest lisanslı, az da olsa var)
+  - Basın ajansı / haber görselleri (lisans/izin uygunsa)
+  - Kendi çektiğin görseller (tatbikat, tören, sergi vb. halka açık etkinlik)
+
+Çeşitlilik önemli (kaliteyi bu belirler, sayı değil):
+  - Farklı açı (önden, yandan, arkadan)
+  - Farklı mesafe (yakın / uzak)
+  - Farklı ortam (gündüz/gece, iç/dış)
+  - Tek kişi ve grup
+
+KAYNAK KAYDI TUT: Her görselin nereden geldiğini ve lisansını
+"kaynaklar.txt" diye bir dosyaya not et (ödev/sunum için gerekli olabilir).
+
+--------------------------------------------------
+ADIM 2 — ETİKETLE (Roboflow Annotate)
+--------------------------------------------------
+Zaten Roboflow hesabın var. Web'den, program kurmadan etiketlersin:
+
+  1. app.roboflow.com -> Create New Project -> Object Detection
+  2. Sınıf adı: poh_personel
+  3. Görselleri sürükle-bırak yükle (bu klasördekiler)
+  4. Her görselde POH üniformalı kişinin etrafına kutu çiz -> poh_personel
+  5. Bittiğinde: Generate -> Train/Valid/Test bölünmesini seç
+     (augmentation'ı KAPALI tut - eğitimde kendimiz yaparız)
+  6. Export -> format YOLOv8 -> zip indir
+
+--------------------------------------------------
+ADIM 3 — BİRLEŞTİR
+--------------------------------------------------
+Zip inince bana söyle. POH etiketlerini silah veri setiyle birleştirip
+tek bir data.yaml altında düzenlerim. Nihai sınıf şeması:
+
+  0: poh_personel     (elle etiketlediğin)
+  1: Handgun          (silah setinden)
+  2: Knife
+  3: Rifle
+  4: Shotgun
+
+NOT: "insan" (üniformasız kişi) tespiti için hazır YOLO modeli zaten
+"person" sınıfını tanır - onu ayrıca etiketlemene gerek yok, sonra
+kullanırız. "Düşman unsur" ise kod tarafında kural olacak:
+  insan var + POH üniforması yok -> tehdit.
