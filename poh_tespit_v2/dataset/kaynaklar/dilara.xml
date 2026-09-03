@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>2482352</id>
+      <name>sinir guvenlik</name>
+      <size>261</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-08-04 12:07:29.353905+00:00</created>
+      <updated>2026-09-03 12:49:18.247020+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>260</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4319607</id>
+          <start>0</start>
+          <stop>260</stop>
+          <url>https://app.cvat.ai/api/tasks/2482352/dataset/export/api/jobs/4321684</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>dilara1</username>
+        <email>dilara.korkmaz1357@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>uniformed_person</name>
+          <color>#dce211</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-09-03 12:49:34.061285+00:00</dumped>
+  </meta>
+  <image id="0" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0003.jpg" width="1920" height="1080">
+  </image>
+  <image id="1" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0004.jpg" width="1920" height="1080">
+  </image>
+  <image id="2" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0005.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1.77" ytl="102.15" xbr="793.35" ybr="971.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="564.29" ytl="214.99" xbr="1488.76" ybr="964.46" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="803.28" ytl="129.10" xbr="1914.86" ybr="972.90" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0006.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="18.44" ytl="95.41" xbr="799.92" ybr="972.88" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="543.92" ytl="231.83" xbr="1460.29" ybr="974.57" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="826.86" ytl="110.57" xbr="1911.66" ybr="966.15" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0007.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="852.13" ytl="384.88" xbr="1913.18" ybr="986.38" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="0.00" ytl="105.52" xbr="852.30" ybr="974.57" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="548.97" ytl="204.88" xbr="1399.49" ybr="794.36" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0008.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="806.82" ytl="381.73" xbr="1911.49" ybr="967.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="11.87" ytl="103.83" xbr="801.77" ybr="972.88" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="574.40" ytl="189.73" xbr="1365.81" ybr="762.36" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0009.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="756.12" ytl="110.80" xbr="1763.40" ybr="969.70" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="563.98" ytl="224.38" xbr="1406.79" ybr="824.10" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="90.90" ytl="102.11" xbr="676.06" ybr="976.94" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0010.jpg" width="1920" height="1080">
+  </image>
+  <image id="8" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0011.jpg" width="1920" height="1080">
+  </image>
+  <image id="9" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0015.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="614.72" ytl="513.80" xbr="675.96" ybr="783.27" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="636.39" ytl="529.83" xbr="761.69" ybr="802.11" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="986.87" ytl="517.58" xbr="1109.34" ybr="777.62" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1120.65" ytl="494.97" xbr="1298.72" ybr="738.99" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0016.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="456.34" ytl="523.20" xbr="584.34" ybr="843.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="611.28" ytl="518.15" xbr="736.10" ybr="826.36" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="976.14" ytl="511.40" xbr="1081.88" ybr="775.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1083.06" ytl="511.40" xbr="1180.58" ybr="754.65" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0017.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1156.97" ytl="481.09" xbr="1325.39" ybr="770.78" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="877.39" ytl="518.15" xbr="1000.34" ybr="819.62" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="368.76" ytl="548.46" xbr="577.77" ybr="952.67" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="584.34" ytl="511.41" xbr="714.19" ybr="824.67" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="698.86" ytl="536.67" xbr="826.86" ybr="898.78" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0018.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="951.49" ytl="447.40" xbr="1123.28" ybr="866.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="227.28" ytl="390.15" xbr="562.60" ybr="974.57" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="653.39" ytl="519.83" xbr="818.60" ybr="886.99" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0019.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="476.72" ytl="536.67" xbr="663.66" ybr="945.94" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="720.76" ytl="487.83" xbr="887.66" ybr="934.15" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="914.44" ytl="467.62" xbr="1091.28" ybr="888.67" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1170.44" ytl="373.31" xbr="1328.76" ybr="843.20" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0023.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1180.72" ytl="437.31" xbr="1349.14" ybr="875.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="968.34" ytl="457.52" xbr="1157.14" ybr="865.09" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="776.34" ytl="470.99" xbr="956.72" ybr="890.36" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="542.40" ytl="467.62" xbr="739.28" ybr="905.52" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0024.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="783.24" ytl="496.25" xbr="936.34" ybr="737.09" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="636.72" ytl="462.57" xbr="813.39" ybr="694.99" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="916.29" ytl="508.04" xbr="1057.77" ybr="743.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1035.87" ytl="543.41" xbr="1185.77" ybr="799.41" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0025.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="981.81" ytl="548.46" xbr="1114.86" ybr="765.73" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="884.30" ytl="523.20" xbr="1005.39" ybr="725.31" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="772.97" ytl="509.73" xbr="896.10" ybr="711.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="624.76" ytl="481.09" xbr="789.81" ybr="679.83" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0027.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="574.40" ytl="487.83" xbr="739.28" ybr="703.41" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="700.72" ytl="521.52" xbr="855.66" ybr="735.41" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="821.81" ytl="540.04" xbr="954.86" ybr="752.25" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="927.92" ytl="563.62" xbr="1066.02" ybr="785.94" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0028.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="725.81" ytl="501.31" xbr="865.77" ybr="725.31" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="488.34" ytl="455.83" xbr="651.87" ybr="676.46" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="628.29" ytl="487.83" xbr="766.40" ybr="703.41" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="840.34" ytl="534.99" xbr="985.35" ybr="764.04" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0029.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="663.66" ytl="481.09" xbr="801.77" ybr="694.99" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="530.44" ytl="454.15" xbr="697.35" ybr="669.73" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="769.77" ytl="499.62" xbr="907.87" ybr="715.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="889.35" ytl="533.31" xbr="1008.76" ybr="750.57" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0030.jpg" width="1920" height="1080">
+  </image>
+  <image id="21" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0031.jpg" width="1920" height="1080">
+  </image>
+  <image id="22" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0032.jpg" width="1920" height="1080">
+  </image>
+  <image id="23" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0037.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="556.76" ytl="309.10" xbr="610.23" ybr="441.77" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0038.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="554.56" ytl="296.46" xbr="623.84" ybr="428.80" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0039.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="566.19" ytl="291.15" xbr="616.70" ybr="433.98" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0040.jpg" width="1920" height="1080">
+  </image>
+  <image id="27" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0041.jpg" width="1920" height="1080">
+  </image>
+  <image id="28" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0047.jpg" width="1920" height="1080">
+  </image>
+  <image id="29" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0048.jpg" width="1920" height="1080">
+  </image>
+  <image id="30" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0049.jpg" width="1920" height="1080">
+  </image>
+  <image id="31" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0050.jpg" width="1920" height="1080">
+  </image>
+  <image id="32" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0051.jpg" width="1920" height="1080">
+  </image>
+  <image id="33" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0052.jpg" width="1920" height="1080">
+  </image>
+  <image id="34" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0053.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1161.00" ytl="491.00" xbr="1192.00" ybr="578.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1133.00" ytl="515.00" xbr="1158.00" ybr="569.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="635.00" ytl="537.00" xbr="673.00" ybr="575.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1056.82" ytl="532.60" xbr="1168.59" ybr="587.21" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1593.00" ytl="643.00" xbr="1919.00" ybr="966.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="681.00" ytl="543.00" xbr="717.00" ybr="576.00" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0054.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1153.79" ytl="211.83" xbr="1649.89" ybr="492.45" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1425.64" ytl="151.70" xbr="1772.66" ybr="439.83" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0055.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1168.82" ytl="231.87" xbr="1559.69" ybr="547.57" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="702.79" ytl="231.87" xbr="1405.60" ybr="557.60" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0056.jpg" width="1920" height="1080">
+  </image>
+  <image id="38" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0057.jpg" width="1920" height="1080">
+  </image>
+  <image id="39" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0058.jpg" width="1920" height="1080">
+  </image>
+  <image id="40" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0059.jpg" width="1920" height="1080">
+  </image>
+  <image id="41" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0060.jpg" width="1920" height="1080">
+  </image>
+  <image id="42" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0061.jpg" width="1920" height="1080">
+  </image>
+  <image id="43" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0062.jpg" width="1920" height="1080">
+  </image>
+  <image id="44" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0063.jpg" width="1920" height="1080">
+  </image>
+  <image id="45" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0064.jpg" width="1920" height="1080">
+  </image>
+  <image id="46" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0065.jpg" width="1920" height="1080">
+  </image>
+  <image id="47" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0066.jpg" width="1920" height="1080">
+  </image>
+  <image id="48" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0067.jpg" width="1920" height="1080">
+  </image>
+  <image id="49" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0068.jpg" width="1920" height="1080">
+  </image>
+  <image id="50" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0069.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="761.35" ytl="211.62" xbr="1343.92" ybr="969.52" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1495.49" ytl="413.73" xbr="1621.81" ybr="721.94" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1628.72" ytl="418.78" xbr="1780.29" ybr="723.62" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0070.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="719.24" ytl="172.88" xbr="1311.92" ybr="969.52" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0071.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1054.20" ytl="223.41" xbr="1766.82" ybr="969.52" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0072.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="545.77" ytl="110.57" xbr="1150.40" ybr="972.88" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1155.28" ytl="428.88" xbr="1571.28" ybr="974.57" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0073.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1563.00" ytl="560.25" xbr="1830.82" ybr="794.36" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0074.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="678.82" ytl="464.25" xbr="983.49" ybr="972.88" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="941.39" ytl="450.78" xbr="1269.81" ybr="969.50" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0075.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1.77" ytl="262.15" xbr="619.87" ybr="967.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="552.34" ytl="257.09" xbr="917.81" ybr="705.09" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0076.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="464.76" ytl="294.15" xbr="766.40" ybr="966.15" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="717.39" ytl="282.36" xbr="1012.29" ybr="971.20" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0077.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="8.34" ytl="107.20" xbr="648.34" ybr="976.25" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="483.50" ytl="108.88" xbr="1018.86" ybr="966.15" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0078.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="26.86" ytl="110.57" xbr="754.44" ybr="977.94" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="772.97" ytl="110.57" xbr="1236.29" ybr="959.41" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0079.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1662.00" ytl="639.00" xbr="1799.00" ybr="970.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="869.00" ytl="628.00" xbr="1142.00" ybr="970.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1465.00" ytl="647.00" xbr="1733.00" ybr="971.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1744.00" ytl="613.00" xbr="1920.00" ybr="970.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="310.00" ytl="616.00" xbr="634.00" ybr="969.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="43.00" ytl="639.00" xbr="265.00" ybr="969.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1144.00" ytl="620.00" xbr="1436.00" ybr="971.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="593.00" ytl="629.00" xbr="889.00" ybr="969.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1381.00" ytl="676.00" xbr="1517.00" ybr="970.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="221.00" ytl="669.00" xbr="376.00" ybr="969.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="25.35" ytl="651.20" xbr="151.49" ybr="762.36" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="314.86" ytl="684.88" xbr="395.87" ybr="743.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1119.92" ytl="676.46" xbr="1264.76" ybr="966.15" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0080.jpg" width="1920" height="1080">
+  </image>
+  <image id="62" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0081.jpg" width="1920" height="1080">
+  </image>
+  <image id="63" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0083.jpg" width="1920" height="1080">
+  </image>
+  <image id="64" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0084.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="623.24" ytl="476.04" xbr="791.66" ybr="878.57" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1076.29" ytl="556.88" xbr="1204.29" ybr="895.41" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="904.34" ytl="519.83" xbr="1071.24" ybr="892.04" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="789.81" ytl="511.41" xbr="902.82" ybr="885.31" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0085.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1071.24" ytl="538.36" xbr="1199.20" ybr="893.73" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="616.34" ytl="479.41" xbr="778.19" ybr="865.09" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="786.44" ytl="508.04" xbr="909.39" ybr="881.94" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="906.19" ytl="523.20" xbr="1071.24" ybr="892.04" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0087.jpg" width="1920" height="1080">
+  </image>
+  <image id="67" name="tatbikat_videolarindan/vid01_43_years_after_the_establishme/vid01_43_years_after_the_establishme_0090.jpg" width="1920" height="1080">
+  </image>
+  <image id="68" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0001.jpg" width="1920" height="1080">
+  </image>
+  <image id="69" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0002.jpg" width="1920" height="1080">
+  </image>
+  <image id="70" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0003.jpg" width="1920" height="1080">
+  </image>
+  <image id="71" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0004.jpg" width="1920" height="1080">
+  </image>
+  <image id="72" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0005.jpg" width="1920" height="1080">
+  </image>
+  <image id="73" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0006.jpg" width="1920" height="1080">
+  </image>
+  <image id="74" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0007.jpg" width="1920" height="1080">
+  </image>
+  <image id="75" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0008.jpg" width="1920" height="1080">
+  </image>
+  <image id="76" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0009.jpg" width="1920" height="1080">
+  </image>
+  <image id="77" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0010.jpg" width="1920" height="1080">
+  </image>
+  <image id="78" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0012.jpg" width="1920" height="1080">
+  </image>
+  <image id="79" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0013.jpg" width="1920" height="1080">
+  </image>
+  <image id="80" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0014.jpg" width="1920" height="1080">
+  </image>
+  <image id="81" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0015.jpg" width="1920" height="1080">
+  </image>
+  <image id="82" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0016.jpg" width="1920" height="1080">
+  </image>
+  <image id="83" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0031.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="541.00" ytl="115.00" xbr="1005.00" ybr="896.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1149.00" ytl="201.00" xbr="1380.00" ybr="816.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1369.00" ytl="245.00" xbr="1592.00" ybr="777.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1552.00" ytl="275.00" xbr="1717.00" ybr="732.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1685.00" ytl="307.00" xbr="1823.00" ybr="703.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="152.00" ytl="110.00" xbr="628.00" ybr="965.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1770.00" ytl="336.00" xbr="1911.00" ybr="675.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1837.00" ytl="340.00" xbr="1919.00" ybr="659.00" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0032.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="620.00" ytl="166.00" xbr="975.00" ybr="908.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1378.00" ytl="296.00" xbr="1543.00" ybr="726.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1.00" ytl="109.00" xbr="524.00" ybr="965.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1511.00" ytl="315.00" xbr="1646.00" ybr="701.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1174.00" ytl="257.00" xbr="1394.00" ybr="767.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1627.00" ytl="324.00" xbr="1805.00" ybr="666.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="942.00" ytl="210.00" xbr="1231.00" ybr="816.00" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0033.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1007.00" ytl="111.00" xbr="1447.00" ybr="957.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="479.00" ytl="106.00" xbr="1022.00" ybr="967.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1582.00" ytl="209.00" xbr="1876.00" ybr="837.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1387.00" ytl="179.00" xbr="1661.00" ybr="870.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="0.00" ytl="127.41" xbr="483.28" ybr="979.62" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1790.00" ytl="246.00" xbr="1920.00" ybr="688.00" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0034.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1295.24" ytl="444.04" xbr="1551.24" ybr="935.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="685.39" ytl="177.94" xbr="1136.76" ybr="967.80" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0035.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="4.97" ytl="108.88" xbr="1062.82" ybr="969.52" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="961.77" ytl="561.94" xbr="1037.39" ybr="838.15" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="996.97" ytl="563.62" xbr="1173.81" ybr="892.04" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1205.81" ytl="198.15" xbr="1768.34" ybr="971.20" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0036.jpg" width="1920" height="1080">
+  </image>
+  <image id="89" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0037.jpg" width="1920" height="1080">
+  </image>
+  <image id="90" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0038.jpg" width="1920" height="1080">
+  </image>
+  <image id="91" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0039.jpg" width="1920" height="1080">
+  </image>
+  <image id="92" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0055.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="281.35" ytl="103.83" xbr="801.77" ybr="668.04" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="941.39" ytl="107.20" xbr="1534.40" ybr="878.57" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="4.97" ytl="263.83" xbr="449.77" ybr="974.57" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0056.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1100.00" ytl="514.00" xbr="1132.00" ybr="568.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="866.00" ytl="556.00" xbr="892.00" ybr="604.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="752.00" ytl="562.00" xbr="779.00" ybr="624.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="969.00" ytl="539.00" xbr="990.00" ybr="592.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="660.00" ytl="564.00" xbr="713.00" ybr="636.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="939.43" ytl="531.45" xbr="966.97" ybr="572.95" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1179.00" ytl="506.00" xbr="1195.00" ybr="541.00" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0057.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="514.00" ytl="533.00" xbr="565.00" ybr="623.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1314.00" ytl="491.00" xbr="1340.00" ybr="541.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1107.00" ytl="509.00" xbr="1137.00" ybr="581.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="651.00" ytl="534.00" xbr="698.00" ybr="612.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="922.09" ytl="517.89" xbr="971.59" ybr="596.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1188.00" ytl="501.00" xbr="1208.00" ybr="549.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="786.00" ytl="537.00" xbr="817.00" ybr="603.00" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0058.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="898.00" ytl="163.34" xbr="1225.80" ybr="856.39" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="716.04" ytl="239.60" xbr="1133.48" ybr="873.79" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="710.69" ytl="519.23" xbr="983.63" ybr="802.87" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="112.63" ytl="111.16" xbr="1085.18" ybr="970.12" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0059.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="3.00" ytl="130.00" xbr="965.00" ybr="965.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="952.86" ytl="170.03" xbr="1268.61" ybr="928.64" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="499.00" ytl="231.00" xbr="981.00" ybr="941.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="semi-auto" occluded="0" xtl="732.00" ytl="243.00" xbr="1099.80" ybr="958.00" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0060.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1108.06" ytl="309.17" xbr="1252.56" ybr="972.79" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0061.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="434.00" ytl="427.00" xbr="597.00" ybr="816.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="222.00" ytl="531.00" xbr="560.00" ybr="965.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="360.15" ytl="400.15" xbr="491.27" ybr="541.97" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="26.00" ytl="307.00" xbr="341.00" ybr="963.00" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0062.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="436.41" ytl="422.90" xbr="508.66" ybr="496.48" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1.00" ytl="266.00" xbr="240.00" ybr="966.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="290.00" ytl="504.00" xbr="487.00" ybr="785.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="649.14" ytl="480.43" xbr="673.23" ybr="532.61" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="412.33" ytl="509.86" xbr="520.70" ybr="639.64" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="512.00" ytl="437.00" xbr="592.00" ybr="670.00" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0063.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="84.00" ytl="333.00" xbr="996.00" ybr="964.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="289.24" ytl="350.65" xbr="448.45" ybr="583.45" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="692.00" ytl="285.00" xbr="1005.00" ybr="612.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1093.00" ytl="278.00" xbr="1662.00" ybr="961.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="239.00" ytl="351.00" xbr="399.00" ybr="641.00" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0064.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1197.70" ytl="240.94" xbr="1346.21" ybr="968.78" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="819.06" ytl="212.80" xbr="1256.57" ybr="971.46" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1204.39" ytl="242.27" xbr="1580.35" ybr="968.78" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0065.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="863.22" ytl="315.86" xbr="918.07" ybr="465.71" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="338.74" ytl="562.04" xbr="733.43" ybr="974.13" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0066.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="931.45" ytl="479.09" xbr="1057.22" ybr="794.85" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0067.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1059.89" ytl="588.80" xbr="1153.55" ybr="784.14" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1137.49" ytl="524.58" xbr="1281.99" ybr="785.48" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0068.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="364.16" ytl="584.79" xbr="471.20" ybr="786.82" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1054.54" ytl="622.25" xbr="1193.69" ybr="851.04" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0069.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="0.00" ytl="141.93" xbr="1402.41" ybr="958.08" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0070.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="112.63" ytl="331.92" xbr="1209.74" ybr="963.43" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0071.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="738.79" ytl="266.36" xbr="1001.02" ybr="749.36" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="919.41" ytl="230.23" xbr="1173.62" ybr="709.22" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="922.09" ytl="694.50" xbr="1197.70" ybr="964.77" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0072.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="614.36" ytl="108.48" xbr="1284.67" ybr="971.46" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="266.49" ytl="202.14" xbr="804.35" ybr="974.13" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0073.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="710.69" ytl="117.85" xbr="1075.95" ybr="778.79" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="967.58" ytl="108.48" xbr="1401.07" ybr="865.76" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0074.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="551.47" ytl="503.17" xbr="831.10" ybr="972.79" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="222.00" ytl="543.00" xbr="501.00" ybr="969.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="568.00" ytl="455.00" xbr="1036.00" ybr="970.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="983.63" ytl="651.69" xbr="1203.05" ybr="975.47" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1207.00" ytl="610.00" xbr="1505.00" ybr="969.00" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0075.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1042.50" ytl="262.34" xbr="1583.03" ybr="948.71" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0076.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="931.45" ytl="109.82" xbr="1882.40" ybr="966.10" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0077.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="38.82" ytl="524.88" xbr="203.87" ybr="758.99" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="294.59" ytl="562.04" xbr="564.85" ybr="897.87" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1023.77" ytl="301.14" xbr="1920.00" ybr="982.16" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0078.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="semi-auto" occluded="0" xtl="1320.00" ytl="341.00" xbr="1756.10" ybr="944.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1162.00" ytl="426.00" xbr="1448.00" ybr="905.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="semi-auto" occluded="0" xtl="782.00" ytl="429.00" xbr="1046.00" ybr="820.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="546.12" ytl="455.01" xbr="695.97" ybr="694.50" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0079.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="443.00" ytl="156.00" xbr="794.00" ybr="848.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="semi-auto" occluded="0" xtl="1475.00" ytl="240.00" xbr="1711.30" ybr="779.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1205.00" ytl="199.00" xbr="1454.00" ybr="764.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="783.00" ytl="138.00" xbr="1090.00" ybr="802.00" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0080.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1118.76" ytl="176.72" xbr="1500.08" ybr="968.78" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="706.68" ytl="315.86" xbr="1306.08" ybr="968.78" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0081.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1247.21" ytl="103.13" xbr="1916.10" ybr="963.40" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="345.43" ytl="273.05" xbr="1268.61" ybr="967.44" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0082.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1217.77" ytl="245.31" xbr="1741.39" ybr="969.52" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="463.24" ytl="363.20" xbr="1116.72" ybr="959.41" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0083.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1215.00" ytl="371.00" xbr="1488.00" ybr="825.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1418.00" ytl="272.00" xbr="1685.00" ybr="843.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="40.00" ytl="555.00" xbr="531.00" ybr="969.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="508.00" ytl="554.00" xbr="921.00" ybr="957.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="896.00" ytl="500.00" xbr="1332.00" ybr="836.00" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0084.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1055.00" ytl="367.00" xbr="1430.00" ybr="907.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1322.00" ytl="332.00" xbr="1498.00" ybr="722.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="685.00" ytl="406.00" xbr="1116.00" ybr="935.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1527.00" ytl="346.00" xbr="1677.00" ybr="699.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1452.00" ytl="313.00" xbr="1675.00" ybr="699.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="397.00" ytl="422.00" xbr="805.00" ybr="916.00" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0085.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="978.00" ytl="155.00" xbr="1536.00" ybr="966.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1461.00" ytl="145.00" xbr="1783.00" ybr="965.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="469.00" ytl="211.00" xbr="1101.00" ybr="955.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1668.00" ytl="126.00" xbr="1919.00" ybr="891.00" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0086.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1635.28" ytl="245.31" xbr="1918.40" ybr="918.99" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1052.72" ytl="103.83" xbr="1829.14" ybr="962.78" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0087.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="830.40" ytl="112.25" xbr="1914.86" ybr="976.25" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0088.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="754.44" ytl="110.57" xbr="1909.81" ybr="959.41" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0089.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="693.81" ytl="103.83" xbr="1899.87" ybr="972.88" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0090.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="28.72" ytl="105.52" xbr="1497.35" ybr="969.52" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0091.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="45.39" ytl="103.83" xbr="1365.81" ybr="966.15" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0092.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="577.77" ytl="297.52" xbr="986.86" ybr="595.62" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0093.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="427.87" ytl="329.52" xbr="771.28" ybr="971.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="714.19" ytl="299.20" xbr="1049.35" ybr="969.52" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0094.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="409.35" ytl="317.73" xbr="688.76" ybr="974.57" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="606.40" ytl="267.20" xbr="895.92" ybr="964.46" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0095.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="722.44" ytl="305.94" xbr="949.81" ybr="871.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="591.24" ytl="331.20" xbr="717.39" ybr="848.25" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1273.35" ytl="309.31" xbr="1473.77" ybr="932.46" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0097.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="721.00" ytl="305.00" xbr="980.00" ybr="860.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="468.00" ytl="298.00" xbr="660.00" ybr="853.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="610.00" ytl="327.00" xbr="731.00" ybr="845.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1301.00" ytl="316.00" xbr="1410.00" ybr="918.00" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0098.jpg" width="1920" height="1080">
+  </image>
+  <image id="135" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0099.jpg" width="1920" height="1080">
+  </image>
+  <image id="136" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0100.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="53.81" ytl="445.73" xbr="277.81" ybr="765.73" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0101.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="510.40" ytl="438.99" xbr="597.81" ybr="609.09" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0102.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="882.44" ytl="444.04" xbr="938.02" ybr="555.20" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0103.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="818.44" ytl="236.88" xbr="1278.40" ybr="971.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1429.81" ytl="417.09" xbr="1530.86" ybr="715.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1567.92" ytl="433.94" xbr="1689.35" ybr="721.94" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0104.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="804.97" ytl="191.41" xbr="1350.82" ybr="957.73" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0105.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="4.97" ytl="110.57" xbr="867.28" ybr="977.94" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0106.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="427.87" ytl="245.31" xbr="826.86" ybr="979.62" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0107.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="471.66" ytl="226.78" xbr="894.40" ybr="966.15" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="126.40" ytl="278.99" xbr="584.34" ybr="966.15" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0108.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="746.19" ytl="240.25" xbr="1049.35" ybr="972.88" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="614.82" ytl="257.09" xbr="993.77" ybr="977.94" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="0.00" ytl="277.31" xbr="109.39" ybr="617.52" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0109.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="795.00" ytl="379.00" xbr="942.00" ybr="794.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="895.00" ytl="374.00" xbr="1065.00" ybr="809.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="680.00" ytl="398.00" xbr="824.00" ybr="786.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="499.00" ytl="377.00" xbr="679.00" ybr="807.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1124.00" ytl="374.00" xbr="1386.00" ybr="841.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="424.00" ytl="413.00" xbr="536.00" ybr="743.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1036.00" ytl="371.00" xbr="1173.00" ybr="835.00" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0110.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="867.00" ytl="395.00" xbr="1134.00" ybr="720.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="530.00" ytl="294.00" xbr="723.00" ybr="864.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1067.00" ytl="733.00" xbr="1407.00" ybr="970.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="829.00" ytl="706.00" xbr="1105.00" ybr="970.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="833.77" ytl="598.99" xbr="1092.97" ybr="822.99" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0112.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="45.39" ytl="204.88" xbr="894.40" ybr="969.52" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="833.77" ytl="346.36" xbr="1340.72" ybr="979.62" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0113.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="885.81" ytl="299.20" xbr="1362.61" ybr="967.83" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0114.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="799.92" ytl="529.94" xbr="1130.02" ybr="903.83" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0115.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="799.92" ytl="221.73" xbr="1108.29" ybr="534.99" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="793.35" ytl="526.57" xbr="1305.35" ybr="929.09" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0116.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="724.29" ytl="474.36" xbr="1136.76" ybr="836.46" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0117.jpg" width="1920" height="1080">
+  </image>
+  <image id="153" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0118.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="38.82" ytl="321.09" xbr="1121.77" ybr="962.78" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0119.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="3.28" ytl="326.10" xbr="1135.24" ybr="972.88" z_order="0">
+    </box>
+  </image>
+  <image id="155" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0120.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="577.77" ytl="278.99" xbr="966.82" ybr="625.94" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="906.19" ytl="277.31" xbr="1667.28" ybr="737.09" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0121.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1460.29" ytl="309.31" xbr="1919.92" ybr="967.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="591.24" ytl="255.41" xbr="1394.44" ybr="976.25" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0122.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1450.19" ytl="285.73" xbr="1920.00" ybr="954.36" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="45.39" ytl="103.83" xbr="857.35" ybr="981.31" z_order="0">
+    </box>
+  </image>
+  <image id="158" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0123.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1537.77" ytl="410.36" xbr="1770.19" ybr="966.15" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1386.19" ytl="435.62" xbr="1564.72" ybr="929.09" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="995.28" ytl="438.99" xbr="1136.76" ybr="747.20" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0125.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1192.34" ytl="462.57" xbr="1411.28" ybr="932.46" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1392.76" ytl="501.31" xbr="1525.81" ybr="935.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1532.00" ytl="588.00" xbr="1678.00" ybr="918.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1705.00" ytl="634.00" xbr="1771.00" ybr="846.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="352.00" ytl="524.00" xbr="595.00" ybr="969.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="768.00" ytl="461.00" xbr="939.00" ybr="962.00" z_order="0">
+    </box>
+  </image>
+  <image id="160" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0126.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1124.00" ytl="490.00" xbr="1357.00" ybr="965.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="944.00" ytl="465.00" xbr="1133.00" ybr="962.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="533.00" ytl="531.00" xbr="753.00" ybr="969.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1485.39" ytl="533.31" xbr="1588.29" ybr="679.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1583.24" ytl="556.88" xbr="1734.82" ybr="924.04" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1409.77" ytl="582.15" xbr="1596.72" ybr="947.62" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0127.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1091.00" ytl="518.00" xbr="1277.00" ybr="969.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="937.00" ytl="469.00" xbr="1110.00" ybr="966.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="531.00" ytl="537.00" xbr="759.00" ybr="969.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1281.77" ytl="622.57" xbr="1446.82" ybr="947.62" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1527.49" ytl="536.67" xbr="1670.82" ybr="929.09" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1657.35" ytl="578.78" xbr="1736.34" ybr="937.52" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1412.97" ytl="538.36" xbr="1540.97" ybr="945.94" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0128.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="528.76" ytl="526.57" xbr="806.82" ybr="966.15" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="919.49" ytl="465.94" xbr="1116.55" ybr="979.62" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1089.77" ytl="486.15" xbr="1237.81" ybr="972.88" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1264.76" ytl="641.09" xbr="1423.24" ybr="969.52" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1306.86" ytl="440.67" xbr="1510.82" ybr="952.67" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1475.28" ytl="548.46" xbr="1608.34" ybr="939.20" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0129.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="496.76" ytl="533.31" xbr="805.14" ybr="974.57" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="944.76" ytl="460.88" xbr="1103.24" ybr="974.57" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1103.24" ytl="472.67" xbr="1264.76" ybr="972.88" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1269.81" ytl="494.57" xbr="1441.77" ybr="967.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1444.97" ytl="541.73" xbr="1594.86" ybr="952.67" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0131.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="501.00" ytl="540.00" xbr="734.00" ybr="969.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1402.86" ytl="546.78" xbr="1571.28" ybr="959.41" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1231.24" ytl="492.88" xbr="1397.81" ybr="967.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1069.39" ytl="487.83" xbr="1207.49" ybr="964.46" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="912.00" ytl="479.00" xbr="1097.00" ybr="963.00" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0132.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="737.77" ytl="433.94" xbr="894.40" ybr="967.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="445.00" ytl="532.00" xbr="716.00" ybr="969.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="897.77" ytl="433.94" xbr="1138.44" ybr="976.25" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1183.92" ytl="649.52" xbr="1305.35" ybr="959.41" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1249.77" ytl="534.99" xbr="1409.77" ybr="972.88" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1399.49" ytl="555.20" xbr="1514.02" ybr="929.09" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1773.39" ytl="636.04" xbr="1877.81" ybr="912.25" z_order="0">
+    </box>
+  </image>
+  <image id="166" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0133.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="484.00" ytl="532.00" xbr="752.00" ybr="970.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1840.00" ytl="644.00" xbr="1912.00" ybr="854.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1665.00" ytl="607.00" xbr="1787.00" ybr="924.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="714.19" ytl="413.73" xbr="928.08" ybr="972.88" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="921.35" ytl="427.20" xbr="1146.90" ybr="969.52" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1052.72" ytl="440.67" xbr="1224.34" ybr="979.62" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1202.44" ytl="642.78" xbr="1409.77" ybr="959.41" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1387.87" ytl="546.78" xbr="1535.92" ybr="935.83" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0134.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="586.00" ytl="536.00" xbr="839.00" ybr="969.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="818.44" ytl="413.73" xbr="1017.35" ybr="977.94" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1096.34" ytl="423.83" xbr="1318.82" ybr="974.57" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1288.34" ytl="636.04" xbr="1493.81" ybr="964.46" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1476.97" ytl="533.31" xbr="1655.49" ybr="920.67" z_order="0">
+    </box>
+  </image>
+  <image id="168" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0135.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1269.81" ytl="292.46" xbr="1677.39" ybr="972.88" z_order="0">
+    </box>
+  </image>
+  <image id="169" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0136.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1079.49" ytl="373.31" xbr="1514.02" ybr="969.52" z_order="0">
+    </box>
+  </image>
+  <image id="170" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0137.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1028.97" ytl="334.57" xbr="1628.55" ybr="972.88" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="0.00" ytl="428.88" xbr="124.72" ybr="979.62" z_order="0">
+    </box>
+  </image>
+  <image id="171" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0138.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="791.66" ytl="236.88" xbr="1187.28" ybr="972.88" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0139.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1305.35" ytl="528.25" xbr="1527.49" ybr="969.52" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1177.35" ytl="481.09" xbr="1259.87" ybr="856.67" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1076.29" ytl="481.09" xbr="1210.86" ybr="865.09" z_order="0">
+    </box>
+  </image>
+  <image id="173" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0140.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1091.28" ytl="438.99" xbr="1308.72" ybr="939.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1217.77" ytl="418.78" xbr="1379.28" ybr="950.99" z_order="0">
+    </box>
+  </image>
+  <image id="174" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0141.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="626.44" ytl="115.62" xbr="1207.49" ybr="974.57" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0142.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="0.00" ytl="619.20" xbr="564.29" ybr="969.52" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="420.97" ytl="179.62" xbr="1226.02" ybr="966.15" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1158.82" ytl="110.57" xbr="1918.40" ybr="974.57" z_order="0">
+    </box>
+  </image>
+  <image id="176" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0143.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="469.81" ytl="113.94" xbr="1761.77" ybr="971.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1658.86" ytl="743.83" xbr="1918.40" ybr="969.52" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="6.82" ytl="609.09" xbr="692.29" ybr="976.25" z_order="0">
+    </box>
+  </image>
+  <image id="177" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0144.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="515.28" ytl="149.31" xbr="1515.87" ybr="986.36" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="8.34" ytl="110.57" xbr="429.39" ybr="969.52" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1460.30" ytl="107.20" xbr="1911.50" ybr="967.83" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0145.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1284.97" ytl="103.83" xbr="1919.92" ybr="967.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1007.24" ytl="105.52" xbr="1487.24" ybr="969.52" z_order="0">
+    </box>
+  </image>
+  <image id="179" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0146.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1525.81" ytl="287.41" xbr="1916.72" ybr="972.88" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1007.24" ytl="295.83" xbr="1576.34" ybr="977.94" z_order="0">
+    </box>
+  </image>
+  <image id="180" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0147.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1517.39" ytl="285.73" xbr="1920.00" ybr="966.15" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1135.24" ytl="312.67" xbr="1564.72" ybr="969.52" z_order="0">
+    </box>
+  </image>
+  <image id="181" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0148.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1188.97" ytl="486.15" xbr="1668.97" ybr="966.15" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1433.35" ytl="312.70" xbr="1913.35" ybr="969.52" z_order="0">
+    </box>
+  </image>
+  <image id="182" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0149.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="948.29" ytl="321.09" xbr="1424.76" ybr="932.46" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1183.92" ytl="236.88" xbr="1857.77" ybr="927.41" z_order="0">
+    </box>
+  </image>
+  <image id="183" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0150.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1222.82" ytl="299.20" xbr="1882.86" ybr="945.94" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="975.24" ytl="326.15" xbr="1419.87" ybr="939.20" z_order="0">
+    </box>
+  </image>
+  <image id="184" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0152.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1448.34" ytl="632.67" xbr="1554.44" ybr="743.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1296.76" ytl="548.46" xbr="1391.24" ybr="668.04" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="874.19" ytl="380.04" xbr="922.86" ybr="470.99" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1156.97" ytl="514.78" xbr="1219.28" ybr="642.78" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="847.24" ytl="358.15" xbr="897.77" ybr="454.15" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1674.19" ytl="656.25" xbr="1756.72" ybr="790.99" z_order="0">
+    </box>
+  </image>
+  <image id="185" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0153.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1183.92" ytl="275.62" xbr="1828.97" ybr="905.52" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="966.82" ytl="287.41" xbr="1343.92" ybr="905.52" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0156.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1042.44" ytl="400.25" xbr="1401.35" ybr="730.36" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="943.24" ytl="428.88" xbr="1141.81" ybr="735.41" z_order="0">
+    </box>
+  </image>
+  <image id="187" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0159.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1060.97" ytl="438.99" xbr="1330.44" ybr="900.46" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="867.28" ytl="408.67" xbr="1099.87" ybr="895.41" z_order="0">
+    </box>
+  </image>
+  <image id="188" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0160.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="843.87" ytl="107.20" xbr="1911.49" ybr="972.88" z_order="0">
+    </box>
+  </image>
+  <image id="189" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0161.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="572.72" ytl="339.62" xbr="850.61" ybr="720.25" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="351.92" ytl="371.62" xbr="591.24" ybr="671.41" z_order="0">
+    </box>
+  </image>
+  <image id="190" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0162.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="996.97" ytl="300.88" xbr="1579.87" ybr="964.46" z_order="0">
+    </box>
+  </image>
+  <image id="191" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0163.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1130.19" ytl="432.25" xbr="1443.28" ybr="952.67" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="496.76" ytl="211.62" xbr="1108.29" ybr="964.46" z_order="0">
+    </box>
+  </image>
+  <image id="192" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0164.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1360.76" ytl="385.09" xbr="1716.29" ybr="954.36" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="751.24" ytl="198.15" xbr="1173.81" ybr="971.20" z_order="0">
+    </box>
+  </image>
+  <image id="193" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0165.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="628.29" ytl="231.83" xbr="1047.49" ybr="972.88" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1310.40" ytl="386.78" xbr="1615.07" ybr="925.73" z_order="0">
+    </box>
+  </image>
+  <image id="194" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0166.jpg" width="1920" height="1080">
+  </image>
+  <image id="195" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0167.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="441.35" ytl="172.88" xbr="823.49" ybr="952.67" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1532.72" ytl="295.83" xbr="1797.14" ybr="839.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1136.76" ytl="346.36" xbr="1451.87" ybr="881.94" z_order="0">
+    </box>
+  </image>
+  <image id="196" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0168.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="346.86" ytl="162.78" xbr="698.86" ybr="967.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1680.76" ytl="204.88" xbr="1920.00" ybr="924.04" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1237.81" ytl="346.36" xbr="1642.19" ybr="935.83" z_order="0">
+    </box>
+  </image>
+  <image id="197" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0169.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="4.97" ytl="110.57" xbr="1066.02" ybr="706.78" z_order="0">
+    </box>
+  </image>
+  <image id="198" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0170.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="112.76" ytl="107.20" xbr="1291.87" ybr="828.04" z_order="0">
+    </box>
+  </image>
+  <image id="199" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0171.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="213.81" ytl="108.88" xbr="1311.92" ybr="969.52" z_order="0">
+    </box>
+  </image>
+  <image id="200" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0172.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="424.34" ytl="103.83" xbr="1244.72" ybr="972.88" z_order="0">
+    </box>
+  </image>
+  <image id="201" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0173.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="0.00" ytl="292.46" xbr="690.44" ybr="816.25" z_order="0">
+    </box>
+  </image>
+  <image id="202" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0174.jpg" width="1920" height="1080">
+  </image>
+  <image id="203" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0175.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="772.97" ytl="103.83" xbr="1908.29" ybr="971.20" z_order="0">
+    </box>
+  </image>
+  <image id="204" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0182.jpg" width="1920" height="1080">
+  </image>
+  <image id="205" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0184.jpg" width="1920" height="1080">
+  </image>
+  <image id="206" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0187.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="638.40" ytl="332.88" xbr="1318.82" ybr="967.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="547.28" ytl="378.36" xbr="968.34" ybr="972.88" z_order="0">
+    </box>
+  </image>
+  <image id="207" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0188.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="132.97" ytl="221.73" xbr="1087.92" ybr="972.88" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="16.76" ytl="162.78" xbr="672.08" ybr="976.25" z_order="0">
+    </box>
+  </image>
+  <image id="208" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0189.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="623.24" ytl="107.20" xbr="1295.24" ybr="974.57" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="276.29" ytl="103.83" xbr="836.97" ybr="947.62" z_order="0">
+    </box>
+  </image>
+  <image id="209" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0190.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="442.86" ytl="285.73" xbr="766.40" ybr="957.73" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="688.76" ytl="277.31" xbr="1024.08" ybr="964.46" z_order="0">
+    </box>
+  </image>
+  <image id="210" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0193.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1116.72" ytl="509.73" xbr="1665.77" ybr="967.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="483.28" ytl="454.15" xbr="1118.40" ybr="974.57" z_order="0">
+    </box>
+  </image>
+  <image id="211" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0194.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="388.97" ytl="305.94" xbr="934.82" ybr="961.09" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="655.24" ytl="265.52" xbr="1751.66" ybr="972.88" z_order="0">
+    </box>
+  </image>
+  <image id="212" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0195.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="444.72" ytl="321.09" xbr="752.76" ybr="972.88" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="540.72" ytl="166.15" xbr="1443.28" ybr="966.15" z_order="0">
+    </box>
+  </image>
+  <image id="213" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0196.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="476.72" ytl="97.09" xbr="1599.92" ybr="966.15" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="188.72" ytl="304.25" xbr="693.81" ybr="964.46" z_order="0">
+    </box>
+  </image>
+  <image id="214" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0197.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="990.40" ytl="368.25" xbr="1433.35" ybr="959.41" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="36.97" ytl="150.99" xbr="1092.97" ybr="966.15" z_order="0">
+    </box>
+  </image>
+  <image id="215" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0198.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1089.77" ytl="366.57" xbr="1911.66" ybr="969.52" z_order="0">
+    </box>
+  </image>
+  <image id="216" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0199.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="607.92" ytl="476.04" xbr="789.81" ybr="817.94" z_order="0">
+    </box>
+  </image>
+  <image id="217" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0200.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="550.82" ytl="246.99" xbr="1020.72" ybr="971.20" z_order="0">
+    </box>
+  </image>
+  <image id="218" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0201.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="8.34" ytl="100.46" xbr="810.19" ybr="972.88" z_order="0">
+    </box>
+  </image>
+  <image id="219" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0211.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="10.19" ytl="139.20" xbr="1323.87" ybr="972.88" z_order="0">
+    </box>
+  </image>
+  <image id="220" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0213.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="8.34" ytl="132.46" xbr="1239.66" ybr="962.78" z_order="0">
+    </box>
+  </image>
+  <image id="221" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0217.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1372.72" ytl="235.20" xbr="1911.66" ybr="969.52" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1150.40" ytl="105.52" xbr="1603.28" ybr="982.99" z_order="0">
+    </box>
+  </image>
+  <image id="222" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0218.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1183.92" ytl="233.52" xbr="1919.92" ybr="964.46" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="577.77" ytl="324.46" xbr="1355.87" ybr="969.52" z_order="0">
+    </box>
+  </image>
+  <image id="223" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0219.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="306.44" ytl="285.73" xbr="724.29" ybr="541.73" z_order="0">
+    </box>
+  </image>
+  <image id="224" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0220.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="323.28" ytl="193.09" xbr="857.35" ybr="964.46" z_order="0">
+    </box>
+  </image>
+  <image id="225" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0221.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="727.50" ytl="358.15" xbr="887.49" ybr="961.09" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="429.40" ytl="413.73" xbr="754.44" ybr="957.73" z_order="0">
+    </box>
+  </image>
+  <image id="226" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0222.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="545.77" ytl="157.73" xbr="939.87" ybr="956.04" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="892.72" ytl="310.99" xbr="1195.87" ybr="967.83" z_order="0">
+    </box>
+  </image>
+  <image id="227" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0224.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="628.29" ytl="117.31" xbr="1002.19" ybr="967.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="575.92" ytl="110.57" xbr="815.24" ybr="797.73" z_order="0">
+    </box>
+  </image>
+  <image id="228" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0228.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="828.72" ytl="376.67" xbr="1005.39" ybr="947.62" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="195.28" ytl="105.52" xbr="864.10" ybr="966.10" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="985.35" ytl="496.25" xbr="1315.28" ybr="967.83" z_order="0">
+    </box>
+  </image>
+  <image id="229" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0229.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="3.28" ytl="614.15" xbr="176.76" ybr="971.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1342.40" ytl="486.15" xbr="1460.29" ybr="920.67" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1197.39" ytl="401.94" xbr="1364.29" ybr="959.41" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="991.92" ytl="285.73" xbr="1271.49" ybr="962.78" z_order="0">
+    </box>
+  </image>
+  <image id="230" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0263.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="4.97" ytl="189.73" xbr="1123.28" ybr="969.52" z_order="0">
+    </box>
+  </image>
+  <image id="231" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0266.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="570.86" ytl="110.57" xbr="1904.76" ybr="966.15" z_order="0">
+    </box>
+  </image>
+  <image id="232" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0272.jpg" width="1920" height="1080">
+  </image>
+  <image id="233" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0275.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="727.00" ytl="459.00" xbr="776.00" ybr="566.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="973.00" ytl="466.00" xbr="1047.00" ybr="648.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="893.00" ytl="470.00" xbr="997.00" ybr="665.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="793.00" ytl="460.00" xbr="851.00" ybr="610.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1043.00" ytl="460.00" xbr="1133.00" ybr="655.00" z_order="0">
+    </box>
+  </image>
+  <image id="234" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0276.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="879.24" ytl="413.73" xbr="1010.44" ybr="630.99" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1084.72" ytl="432.25" xbr="1178.86" ybr="555.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="825.35" ytl="464.25" xbr="875.87" ybr="524.88" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1205.81" ytl="437.31" xbr="1298.61" ybr="521.52" z_order="0">
+    </box>
+  </image>
+  <image id="235" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0278.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1343.92" ytl="125.73" xbr="1842.44" ybr="721.94" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="756.29" ytl="166.10" xbr="1049.35" ybr="732.04" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="924.72" ytl="214.99" xbr="1125.14" ybr="573.73" z_order="0">
+    </box>
+  </image>
+  <image id="236" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0279.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="456.34" ytl="344.67" xbr="784.76" ybr="977.94" z_order="0">
+    </box>
+  </image>
+  <image id="237" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0280.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="469.81" ytl="327.83" xbr="784.76" ybr="967.83" z_order="0">
+    </box>
+  </image>
+  <image id="238" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0281.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="447.92" ytl="248.67" xbr="900.97" ybr="730.36" z_order="0">
+    </box>
+  </image>
+  <image id="239" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0282.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="6.82" ytl="305.94" xbr="355.28" ybr="967.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="830.40" ytl="388.46" xbr="1175.49" ybr="971.20" z_order="0">
+    </box>
+  </image>
+  <image id="240" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0283.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1229.00" ytl="185.00" xbr="1726.00" ybr="963.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="863.00" ytl="347.00" xbr="1287.00" ybr="963.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="37.00" ytl="277.00" xbr="667.00" ybr="960.00" z_order="0">
+    </box>
+  </image>
+  <image id="241" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0284.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="962.00" ytl="278.00" xbr="1411.00" ybr="962.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="222.00" ytl="432.00" xbr="533.00" ybr="966.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="semi-auto" occluded="0" xtl="1358.40" ytl="136.00" xbr="1919.00" ybr="970.60" z_order="0">
+    </box>
+  </image>
+  <image id="242" name="tatbikat_videolarindan/vid02_mke_operation_exercise_turkish/vid02_mke_operation_exercise_turkish_0285.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="415.92" ytl="243.62" xbr="865.77" ybr="962.78" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1258.19" ytl="314.36" xbr="1623.66" ybr="974.57" z_order="0">
+    </box>
+  </image>
+  <image id="243" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0025.jpg" width="1920" height="1080">
+  </image>
+  <image id="244" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0026.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="3.28" ytl="4.46" xbr="872.34" ybr="1065.52" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="638.40" ytl="199.83" xbr="1323.87" ybr="1080.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1079.49" ytl="263.83" xbr="1598.40" ybr="1033.52" z_order="0">
+    </box>
+  </image>
+  <image id="245" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0027.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="92.72" ytl="300.88" xbr="907.87" ybr="1072.25" z_order="0">
+    </box>
+  </image>
+  <image id="246" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0028.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="212.29" ytl="145.94" xbr="764.72" ybr="1045.31" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="739.28" ytl="193.09" xbr="1042.61" ybr="967.83" z_order="0">
+    </box>
+  </image>
+  <image id="247" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0029.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="410.86" ytl="28.04" xbr="799.92" ybr="1028.46" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="799.92" ytl="105.52" xbr="1232.76" ybr="1001.52" z_order="0">
+    </box>
+  </image>
+  <image id="248" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0030.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="694.00" ytl="144.00" xbr="937.00" ybr="912.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="901.00" ytl="130.00" xbr="1174.00" ybr="848.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1037.00" ytl="179.00" xbr="1192.00" ybr="479.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="386.00" ytl="205.00" xbr="743.00" ybr="1070.00" z_order="0">
+    </box>
+  </image>
+  <image id="249" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0031.jpg" width="1920" height="1080">
+  </image>
+  <image id="250" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0032.jpg" width="1920" height="1080">
+  </image>
+  <image id="251" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0033.jpg" width="1920" height="1080">
+  </image>
+  <image id="252" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0037.jpg" width="1920" height="1080">
+  </image>
+  <image id="253" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0038.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="702.40" ytl="33.09" xbr="1241.35" ybr="1070.57" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="3.28" ytl="4.46" xbr="909.39" ybr="1052.04" z_order="0">
+    </box>
+  </image>
+  <image id="254" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0039.jpg" width="1920" height="1080">
+  </image>
+  <image id="255" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0040.jpg" width="1920" height="1080">
+  </image>
+  <image id="256" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0041.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1118.00" ytl="270.00" xbr="1624.00" ybr="1070.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="709.00" ytl="266.00" xbr="1203.00" ybr="1065.00" z_order="0">
+    </box>
+  </image>
+  <image id="257" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0042.jpg" width="1920" height="1080">
+  </image>
+  <image id="258" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0043.jpg" width="1920" height="1080">
+  </image>
+  <image id="259" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0044.jpg" width="1920" height="1080">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="874.00" ytl="208.00" xbr="1176.00" ybr="1018.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="1114.00" ytl="132.00" xbr="1423.00" ybr="1064.00" z_order="0">
+    </box>
+  </image>
+  <image id="260" name="tatbikat_videolarindan/vid03_breathtaking_operation_in_the_/vid03_breathtaking_operation_in_the__0047.jpg" width="1920" height="1080">
+  </image>
+</annotations>

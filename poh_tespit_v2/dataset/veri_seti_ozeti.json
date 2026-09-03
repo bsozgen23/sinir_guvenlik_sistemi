@@ -1,0 +1,395 @@
+{
+  "status": "complete_merged_dataset_with_images",
+  "source_order": [
+    "şeyda",
+    "hasan",
+    "songül",
+    "dilara",
+    "aslı"
+  ],
+  "image_source": {
+    "repository": "https://github.com/bsozgen23/sinir_guvenlik_sistemi",
+    "commit": "15ec49907c2db1c280881af6f12f2597478129be",
+    "root": "etiketlenecek",
+    "original_images_unmodified": true
+  },
+  "seyda_cutoff": {
+    "last_retained_cvat_frame_id": 259,
+    "retained_count": 260,
+    "original_count": 1304,
+    "removed_count": 1044,
+    "removed_boxes": 8,
+    "last_retained_image_name": "aa_poh_galeriler/aa_poh_galeriler_g16_018.jpg"
+  },
+  "total_images": 1301,
+  "total_boxes": 4566,
+  "images_with_boxes": 1015,
+  "images_without_boxes": 286,
+  "class_names": [
+    "uniformed_person"
+  ],
+  "sources": [
+    {
+      "source_archive": "şeyda.zip",
+      "original_images": 1304,
+      "retained_images": 260,
+      "removed_images": 1044,
+      "boxes": 618,
+      "images_with_boxes": 221,
+      "images_without_boxes": 39,
+      "absent_source_frame_ids": [],
+      "sha256": "395fd6fc90ff21929d3b078cac245ca18d85b4f4dfc919b8621dd194a826afa1"
+    },
+    {
+      "source_archive": "hasan.zip",
+      "original_images": 259,
+      "retained_images": 259,
+      "removed_images": 0,
+      "boxes": 684,
+      "images_with_boxes": 186,
+      "images_without_boxes": 73,
+      "absent_source_frame_ids": [
+        129,
+        169
+      ],
+      "sha256": "7740892156ea2c20f040eac559fbe546ee2806d0f125e90386ba58aaf92b93a5"
+    },
+    {
+      "source_archive": "songül.zip",
+      "original_images": 261,
+      "retained_images": 261,
+      "removed_images": 0,
+      "boxes": 1524,
+      "images_with_boxes": 241,
+      "images_without_boxes": 20,
+      "absent_source_frame_ids": [],
+      "sha256": "5e8cdd15f159a81f0005908d67edc3970cb544812053d7007bfeaf5757b2b354"
+    },
+    {
+      "source_archive": "dilara.zip",
+      "original_images": 261,
+      "retained_images": 261,
+      "removed_images": 0,
+      "boxes": 509,
+      "images_with_boxes": 191,
+      "images_without_boxes": 70,
+      "absent_source_frame_ids": [],
+      "sha256": "cc1af5625f7f8ff1bf0b29425b121072aee986afff6308805ada6f659703bed3"
+    },
+    {
+      "source_archive": "aslı.zip",
+      "original_images": 260,
+      "retained_images": 260,
+      "removed_images": 0,
+      "boxes": 1231,
+      "images_with_boxes": 176,
+      "images_without_boxes": 84,
+      "absent_source_frame_ids": [],
+      "sha256": "e2cade492202baede4e61d40203cc26711b343745e64af2991633e3ed02ec868"
+    }
+  ],
+  "identical_existing_boxes_preserved": [
+    {
+      "source_archive": "şeyda.zip",
+      "source_frame_id": 155,
+      "image_name": "aa_poh_galeriler/aa_poh_galeriler_g10_007.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "file",
+        "xbr": "152.00",
+        "xtl": "41.00",
+        "ybr": "625.00",
+        "ytl": "269.00",
+        "z_order": "0"
+      }
+    },
+    {
+      "source_archive": "songül.zip",
+      "source_frame_id": 113,
+      "image_name": "ig_profile_ozelharekatbaskanlik/ig_ozelharekatbaskanlik_0121_DSff5JrCJIF.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "auto",
+        "xbr": "233.00",
+        "xtl": "162.00",
+        "ybr": "869.00",
+        "ytl": "615.00",
+        "z_order": "0"
+      }
+    },
+    {
+      "source_archive": "songül.zip",
+      "source_frame_id": 113,
+      "image_name": "ig_profile_ozelharekatbaskanlik/ig_ozelharekatbaskanlik_0121_DSff5JrCJIF.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "auto",
+        "xbr": "883.00",
+        "xtl": "804.00",
+        "ybr": "865.00",
+        "ytl": "616.00",
+        "z_order": "0"
+      }
+    },
+    {
+      "source_archive": "songül.zip",
+      "source_frame_id": 113,
+      "image_name": "ig_profile_ozelharekatbaskanlik/ig_ozelharekatbaskanlik_0121_DSff5JrCJIF.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "auto",
+        "xbr": "985.00",
+        "xtl": "922.00",
+        "ybr": "861.00",
+        "ytl": "609.00",
+        "z_order": "0"
+      }
+    },
+    {
+      "source_archive": "songül.zip",
+      "source_frame_id": 113,
+      "image_name": "ig_profile_ozelharekatbaskanlik/ig_ozelharekatbaskanlik_0121_DSff5JrCJIF.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "auto",
+        "xbr": "1168.00",
+        "xtl": "1089.00",
+        "ybr": "857.00",
+        "ytl": "618.00",
+        "z_order": "0"
+      }
+    },
+    {
+      "source_archive": "songül.zip",
+      "source_frame_id": 113,
+      "image_name": "ig_profile_ozelharekatbaskanlik/ig_ozelharekatbaskanlik_0121_DSff5JrCJIF.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "auto",
+        "xbr": "805.00",
+        "xtl": "731.00",
+        "ybr": "864.00",
+        "ytl": "626.00",
+        "z_order": "0"
+      }
+    },
+    {
+      "source_archive": "songül.zip",
+      "source_frame_id": 113,
+      "image_name": "ig_profile_ozelharekatbaskanlik/ig_ozelharekatbaskanlik_0121_DSff5JrCJIF.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "auto",
+        "xbr": "1100.00",
+        "xtl": "1033.00",
+        "ybr": "860.00",
+        "ytl": "612.00",
+        "z_order": "0"
+      }
+    },
+    {
+      "source_archive": "songül.zip",
+      "source_frame_id": 113,
+      "image_name": "ig_profile_ozelharekatbaskanlik/ig_ozelharekatbaskanlik_0121_DSff5JrCJIF.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "auto",
+        "xbr": "1044.00",
+        "xtl": "975.00",
+        "ybr": "863.00",
+        "ytl": "609.00",
+        "z_order": "0"
+      }
+    },
+    {
+      "source_archive": "songül.zip",
+      "source_frame_id": 113,
+      "image_name": "ig_profile_ozelharekatbaskanlik/ig_ozelharekatbaskanlik_0121_DSff5JrCJIF.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "auto",
+        "xbr": "298.00",
+        "xtl": "221.00",
+        "ybr": "869.00",
+        "ytl": "616.00",
+        "z_order": "0"
+      }
+    },
+    {
+      "source_archive": "songül.zip",
+      "source_frame_id": 113,
+      "image_name": "ig_profile_ozelharekatbaskanlik/ig_ozelharekatbaskanlik_0121_DSff5JrCJIF.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "auto",
+        "xbr": "520.00",
+        "xtl": "445.00",
+        "ybr": "866.00",
+        "ytl": "626.00",
+        "z_order": "0"
+      }
+    },
+    {
+      "source_archive": "songül.zip",
+      "source_frame_id": 113,
+      "image_name": "ig_profile_ozelharekatbaskanlik/ig_ozelharekatbaskanlik_0121_DSff5JrCJIF.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "auto",
+        "xbr": "588.00",
+        "xtl": "514.00",
+        "ybr": "866.00",
+        "ytl": "603.00",
+        "z_order": "0"
+      }
+    },
+    {
+      "source_archive": "songül.zip",
+      "source_frame_id": 113,
+      "image_name": "ig_profile_ozelharekatbaskanlik/ig_ozelharekatbaskanlik_0121_DSff5JrCJIF.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "auto",
+        "xbr": "366.00",
+        "xtl": "286.00",
+        "ybr": "869.00",
+        "ytl": "611.00",
+        "z_order": "0"
+      }
+    },
+    {
+      "source_archive": "songül.zip",
+      "source_frame_id": 113,
+      "image_name": "ig_profile_ozelharekatbaskanlik/ig_ozelharekatbaskanlik_0121_DSff5JrCJIF.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "auto",
+        "xbr": "658.00",
+        "xtl": "576.00",
+        "ybr": "868.00",
+        "ytl": "622.00",
+        "z_order": "0"
+      }
+    },
+    {
+      "source_archive": "songül.zip",
+      "source_frame_id": 113,
+      "image_name": "ig_profile_ozelharekatbaskanlik/ig_ozelharekatbaskanlik_0121_DSff5JrCJIF.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "auto",
+        "xbr": "1223.00",
+        "xtl": "1141.00",
+        "ybr": "910.00",
+        "ytl": "646.00",
+        "z_order": "0"
+      }
+    },
+    {
+      "source_archive": "songül.zip",
+      "source_frame_id": 113,
+      "image_name": "ig_profile_ozelharekatbaskanlik/ig_ozelharekatbaskanlik_0121_DSff5JrCJIF.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "auto",
+        "xbr": "193.00",
+        "xtl": "93.00",
+        "ybr": "898.00",
+        "ytl": "634.00",
+        "z_order": "0"
+      }
+    },
+    {
+      "source_archive": "songül.zip",
+      "source_frame_id": 113,
+      "image_name": "ig_profile_ozelharekatbaskanlik/ig_ozelharekatbaskanlik_0121_DSff5JrCJIF.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "auto",
+        "xbr": "737.00",
+        "xtl": "654.00",
+        "ybr": "869.00",
+        "ytl": "602.00",
+        "z_order": "0"
+      }
+    },
+    {
+      "source_archive": "songül.zip",
+      "source_frame_id": 113,
+      "image_name": "ig_profile_ozelharekatbaskanlik/ig_ozelharekatbaskanlik_0121_DSff5JrCJIF.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "auto",
+        "xbr": "1327.00",
+        "xtl": "1219.00",
+        "ybr": "923.00",
+        "ytl": "648.00",
+        "z_order": "0"
+      }
+    },
+    {
+      "source_archive": "songül.zip",
+      "source_frame_id": 113,
+      "image_name": "ig_profile_ozelharekatbaskanlik/ig_ozelharekatbaskanlik_0121_DSff5JrCJIF.jpg",
+      "occurrences": 2,
+      "box": {
+        "label": "uniformed_person",
+        "occluded": "0",
+        "source": "auto",
+        "xbr": "1423.00",
+        "xtl": "1312.00",
+        "ybr": "935.00",
+        "ytl": "643.00",
+        "z_order": "0"
+      }
+    }
+  ],
+  "source_image_names_preserved": true,
+  "retained_annotation_attributes_preserved": true,
+  "original_archives_modified": false,
+  "split_created": false,
+  "validation": {
+    "retained_seyda_image_blocks_byte_identical": true,
+    "all_retained_annotations_preserved": true,
+    "unique_image_paths": true,
+    "coordinate_bounds_valid": true,
+    "yolo_roundtrip_max_error_below_pixels": 1e-06,
+    "original_archive_sha256_unchanged": true,
+    "all_image_bytes_match_github_blobs": true,
+    "all_image_dimensions_match_cvat": true
+  }
+}

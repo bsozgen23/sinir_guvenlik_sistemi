@@ -1,0 +1,1928 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>4325355</id>
+      <size>261</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-08-05 11:15:43.722969+00:00</created>
+      <updated>2026-09-03 09:19:40.097829+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>260</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4323266</id>
+          <start>0</start>
+          <stop>260</stop>
+          <url>https://app.cvat.ai/api/jobs/4325355/dataset/export/api/jobs/4325355</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>hasany</username>
+        <email>tt41468@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>uniformed_person</name>
+          <color>#39b119</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-09-03 09:20:18.800198+00:00</dumped>
+  </meta>
+  <image id="0" name="aa_poh_galeriler/aa_poh_galeriler_g16_020.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="679.18" ytl="43.57" xbr="955.86" ybr="426.38" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="aa_poh_galeriler/aa_poh_galeriler_g16_021.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="207.30" ytl="216.02" xbr="757.83" ybr="681.27" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="aa_poh_galeriler/aa_poh_galeriler_g16_022.jpg" width="1024" height="683">
+  </image>
+  <image id="3" name="aa_poh_galeriler/aa_poh_galeriler_g16_023.jpg" width="1024" height="683">
+  </image>
+  <image id="4" name="aa_poh_galeriler/aa_poh_galeriler_g16_024.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="521.54" ytl="109.83" xbr="696.82" ybr="415.06" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="aa_poh_galeriler/aa_poh_galeriler_g16_025.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="787.20" ytl="0.00" xbr="1024.00" ybr="456.70" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="aa_poh_galeriler/aa_poh_galeriler_g16_026.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="530.42" ytl="138.32" xbr="869.64" ybr="568.51" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="aa_poh_galeriler/aa_poh_galeriler_g16_027.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="550.32" ytl="62.52" xbr="740.77" ybr="348.68" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="aa_poh_galeriler/aa_poh_galeriler_g16_028.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="440.40" ytl="194.13" xbr="588.22" ybr="383.40" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="aa_poh_galeriler/aa_poh_galeriler_g16_029.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="294.48" ytl="229.29" xbr="657.39" ybr="680.32" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="aa_poh_galeriler/aa_poh_galeriler_g16_030.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="829.27" ytl="1.59" xbr="938.24" ybr="448.93" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="767.68" ytl="4.43" xbr="852.01" ybr="481.14" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="210.15" ybr="683.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="197.26" ytl="2.63" xbr="432.25" ybr="683.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="675.77" ytl="0.00" xbr="802.74" ybr="530.42" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="571.54" ytl="0.00" xbr="705.14" ybr="644.12" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="432.25" ytl="0.00" xbr="563.96" ybr="238.57" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="aa_poh_galeriler/aa_poh_galeriler_g17_000.jpg" width="1120" height="630">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="10.97" ytl="153.18" xbr="654.25" ybr="626.89" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="aa_poh_galeriler/aa_poh_galeriler_g17_001.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="788.53" ytl="29.17" xbr="916.45" ybr="243.31" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="913.60" ytl="64.22" xbr="1010.25" ybr="278.37" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="498.58" ytl="57.59" xbr="675.80" ybr="574.95" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="aa_poh_galeriler/aa_poh_galeriler_g17_002.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="187.78" ytl="319.11" xbr="288.22" ybr="609.06" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="105.35" ytl="310.59" xbr="221.90" ybr="601.48" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="493.84" ytl="120.13" xbr="679.56" ybr="581.58" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="346.02" ytl="192.14" xbr="511.84" ybr="594.85" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="252.22" ytl="292.58" xbr="381.08" ybr="618.54" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="aa_poh_galeriler/aa_poh_galeriler_g17_003.jpg" width="1024" height="624">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="208.00" ytl="172.51" xbr="408.84" ybr="529.18" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="aa_poh_galeriler/aa_poh_galeriler_g17_004.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="235.16" ytl="255.63" xbr="318.55" ybr="465.98" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="664.40" ytl="258.47" xbr="736.41" ybr="468.40" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="799.90" ytl="259.42" xbr="871.91" ybr="484.40" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="898.44" ytl="270.79" xbr="994.14" ybr="499.15" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="129.98" ytl="267.00" xbr="217.16" ybr="458.40" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="34.28" ytl="266.05" xbr="110.09" ybr="483.04" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="aa_poh_galeriler/aa_poh_galeriler_g17_005.jpg" width="1024" height="683">
+  </image>
+  <image id="17" name="aa_poh_galeriler/aa_poh_galeriler_g17_006.jpg" width="1024" height="736">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="323.42" ytl="92.65" xbr="516.69" ybr="691.07" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="259.00" ytl="181.78" xbr="391.37" ybr="668.12" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="194.58" ytl="191.49" xbr="323.42" ybr="643.41" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="124.86" ytl="147.36" xbr="255.47" ybr="578.11" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="461.97" ytl="65.29" xbr="714.36" ybr="721.95" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="aa_poh_galeriler/aa_poh_galeriler_g17_007.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="97.38" ytl="437.08" xbr="139.25" ybr="573.27" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="471.79" ytl="430.25" xbr="513.66" ybr="531.84" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="528.42" ytl="427.82" xbr="568.09" ybr="530.29" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="151.59" ytl="434.65" xbr="182.22" ybr="562.03" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="377.91" ytl="428.26" xbr="420.88" ybr="517.07" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="824.38" ytl="426.00" xbr="868.89" ybr="562.25" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="751.21" ytl="421.70" xbr="796.17" ybr="544.18" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="694.80" ytl="429.30" xbr="734.02" ybr="540.21" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="643.67" ytl="432.20" xbr="675.41" ybr="536.24" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="590.12" ytl="428.00" xbr="626.93" ybr="530.96" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="425.51" ytl="422.97" xbr="464.07" ybr="531.62" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="aa_poh_galeriler/aa_poh_galeriler_g17_008.jpg" width="1024" height="576">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="391.82" ytl="88.04" xbr="797.13" ybr="371.17" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="aa_poh_galeriler/aa_poh_galeriler_g17_009.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="280.29" ytl="192.10" xbr="560.40" ybr="533.90" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="aa_poh_galeriler/aa_poh_galeriler_g17_010.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="881.36" ytl="37.10" xbr="962.05" ybr="225.37" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="962.75" ytl="63.99" xbr="1024.00" ybr="283.41" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="528.17" ytl="54.79" xbr="717.86" ybr="582.10" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="aa_poh_galeriler/aa_poh_galeriler_g17_011.jpg" width="1024" height="617">
+  </image>
+  <image id="23" name="aa_poh_galeriler/aa_poh_galeriler_g17_012.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="512.12" ytl="187.29" xbr="654.66" ybr="504.17" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="215.43" ytl="340.84" xbr="307.19" ybr="586.76" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="112.66" ytl="346.96" xbr="217.27" ybr="582.47" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="734.18" ytl="99.20" xbr="870.60" ybr="454.62" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="336.56" ytl="298.02" xbr="446.67" ybr="560.50" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="aa_poh_galeriler/aa_poh_galeriler_g17_013.jpg" width="1024" height="658">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="220.40" ytl="151.86" xbr="364.79" ybr="391.73" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="aa_poh_galeriler/aa_poh_galeriler_g17_014.jpg" width="1024" height="899">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="230.97" ytl="73.16" xbr="716.04" ybr="899.00" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="aa_poh_galeriler/aa_poh_galeriler_g17_015.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="741.83" ytl="16.68" xbr="894.77" ybr="323.16" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="758.35" ytl="148.81" xbr="830.53" ybr="348.24" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="872.13" ytl="41.15" xbr="971.84" ybr="299.91" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="434.23" ytl="75.82" xbr="626.15" ybr="285.19" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="aa_poh_galeriler/aa_poh_galeriler_g17_016.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="378.71" ytl="106.49" xbr="671.51" ybr="683.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="38.55" ytl="149.12" xbr="319.97" ybr="683.00" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="aa_poh_galeriler/aa_poh_galeriler_g17_017.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="575.24" ytl="190.49" xbr="739.67" ybr="517.77" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="738.70" ytl="192.10" xbr="912.00" ybr="569.58" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="aa_poh_galeriler/aa_poh_galeriler_g17_018.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="340.40" ytl="18.88" xbr="496.00" ybr="466.03" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="532.90" ytl="26.25" xbr="681.90" ybr="461.93" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="500.10" ytl="306.33" xbr="722.03" ybr="609.34" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="319.11" ytl="269.48" xbr="499.28" ybr="616.71" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="aa_poh_galeriler/aa_poh_galeriler_g17_019.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="623.90" ytl="142.40" xbr="685.00" ybr="336.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="568.08" ytl="157.36" xbr="618.82" ybr="322.28" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="443.24" ytl="250.50" xbr="686.80" ybr="558.57" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="388.40" ytl="245.56" xbr="442.30" ybr="359.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="609.26" ytl="242.40" xbr="684.36" ybr="403.84" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="569.56" ytl="224.30" xbr="646.26" ybr="339.68" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="aa_poh_galeriler/aa_poh_galeriler_g17_020.jpg" width="1024" height="994">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="154.74" ytl="90.74" xbr="359.74" ybr="940.53" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="244.10" ytl="27.60" xbr="611.20" ybr="982.24" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="208.60" ytl="506.10" xbr="608.70" ybr="993.00" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="aa_poh_galeriler/aa_poh_galeriler_g17_021.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="465.45" ytl="134.85" xbr="620.24" ybr="366.61" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="aa_poh_galeriler/aa_poh_galeriler_g17_022.jpg" width="1024" height="640">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="426.90" ytl="211.02" xbr="547.61" ybr="347.65" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="474.60" ytl="187.31" xbr="726.70" ybr="578.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="646.07" ytl="23.75" xbr="716.22" ybr="237.73" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="705.56" ytl="11.32" xbr="780.14" ybr="270.58" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="707.34" ytl="170.25" xbr="803.23" ybr="394.00" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="aa_poh_galeriler/aa_poh_galeriler_g17_023.jpg" width="1024" height="780">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="249.18" ytl="199.66" xbr="309.62" ybr="541.10" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="344.80" ytl="192.44" xbr="472.44" ybr="536.57" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="277.55" ytl="173.95" xbr="348.86" ybr="543.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="319.54" ytl="209.58" xbr="384.04" ybr="532.97" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="192.40" ytl="211.83" xbr="281.65" ybr="523.49" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="aa_poh_galeriler/aa_poh_galeriler_g18_000.jpg" width="1120" height="630">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="68.92" ytl="286.10" xbr="184.80" ybr="510.91" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="469.50" ytl="305.60" xbr="546.85" ybr="453.35" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="516.38" ytl="251.38" xbr="643.90" ybr="476.12" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="aa_poh_galeriler/aa_poh_galeriler_g18_001.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="293.20" ytl="218.20" xbr="466.55" ybr="577.40" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="460.43" ytl="234.40" xbr="564.90" ybr="564.55" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="578.41" ytl="267.11" xbr="676.83" ybr="400.06" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="aa_poh_galeriler/aa_poh_galeriler_g18_002.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="271.90" ytl="93.50" xbr="471.20" ybr="389.65" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="649.13" ytl="51.40" xbr="898.70" ybr="463.26" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="487.30" ytl="168.50" xbr="631.60" ybr="403.10" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="aa_poh_galeriler/aa_poh_galeriler_g18_003.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="673.00" ytl="120.80" xbr="907.50" ybr="440.61" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="417.00" ytl="202.10" xbr="566.00" ybr="427.87" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="aa_poh_galeriler/aa_poh_galeriler_g18_004.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="305.64" ytl="339.00" xbr="386.10" ybr="456.85" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="129.10" ytl="325.60" xbr="211.50" ybr="457.88" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="465.30" ytl="322.70" xbr="558.70" ybr="459.93" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="aa_poh_galeriler/aa_poh_galeriler_g18_005.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="115.11" ytl="180.70" xbr="304.75" ybr="466.61" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="449.12" ytl="236.50" xbr="561.06" ybr="420.12" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="aa_poh_galeriler/aa_poh_galeriler_g18_006.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="333.11" ytl="189.40" xbr="625.80" ybr="618.02" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="aa_poh_galeriler/aa_poh_galeriler_g18_007.jpg" width="1024" height="681">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="310.76" ytl="204.10" xbr="424.10" ybr="547.64" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="200.52" ytl="226.90" xbr="284.00" ybr="384.33" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="558.17" ytl="180.20" xbr="686.00" ybr="529.67" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="aa_poh_galeriler/aa_poh_galeriler_g18_008.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="510.02" ytl="341.80" xbr="527.20" ybr="370.35" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="483.14" ytl="420.50" xbr="500.80" ybr="454.97" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="aa_poh_galeriler/aa_poh_galeriler_g18_009.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="523.25" ytl="219.80" xbr="534.40" ybr="239.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="499.80" ytl="399.70" xbr="515.00" ybr="423.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="523.60" ytl="349.00" xbr="537.60" ybr="373.00" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="aa_poh_galeriler/aa_poh_galeriler_g19_000.jpg" width="1120" height="635">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1000.10" ytl="332.50" xbr="1105.30" ybr="594.72" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="163.44" ytl="470.20" xbr="240.22" ybr="619.18" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="789.60" ytl="354.70" xbr="882.40" ybr="588.47" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="230.55" ytl="433.20" xbr="328.95" ybr="629.42" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="58.22" ytl="420.60" xbr="150.36" ybr="632.26" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="895.40" ytl="344.50" xbr="992.10" ybr="594.15" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="aa_poh_galeriler/aa_poh_galeriler_g19_001.jpg" width="1024" height="718">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="46.26" ytl="310.50" xbr="214.75" ybr="626.45" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="174.23" ytl="308.70" xbr="291.27" ybr="639.96" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="aa_poh_galeriler/aa_poh_galeriler_g19_005.jpg" width="1024" height="703">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="27.00" ytl="477.71" xbr="465.88" ybr="603.64" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="401.02" ytl="484.64" xbr="738.52" ybr="594.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="676.18" ytl="459.50" xbr="950.71" ybr="573.42" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="aa_poh_galeriler/aa_poh_galeriler_g19_006.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="601.74" ytl="117.80" xbr="758.35" ybr="618.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="120.92" ytl="242.65" xbr="267.74" ybr="567.49" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="426.80" ytl="347.90" xbr="652.52" ybr="593.79" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="712.48" ytl="120.00" xbr="937.40" ybr="619.92" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="415.78" ytl="198.00" xbr="555.25" ybr="467.77" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="aa_poh_galeriler/aa_poh_galeriler_g19_007.jpg" width="1024" height="649">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="364.79" ytl="252.10" xbr="475.80" ybr="498.54" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="512.99" ytl="252.66" xbr="607.79" ybr="504.94" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="232.26" ytl="413.09" xbr="340.38" ybr="576.43" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="466.80" ytl="405.00" xbr="610.90" ybr="593.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="346.19" ytl="395.70" xbr="457.21" ybr="588.64" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="802.80" ytl="257.91" xbr="871.40" ybr="504.35" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="253.76" ytl="273.00" xbr="338.05" ybr="507.26" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="aa_poh_galeriler/aa_poh_galeriler_g19_008.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="292.23" ytl="300.18" xbr="403.24" ybr="671.96" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="364.40" ytl="321.83" xbr="475.41" ybr="667.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="65.43" ytl="332.32" xbr="176.44" ybr="663.16" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="220.81" ytl="333.54" xbr="331.82" ybr="674.76" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="488.14" ytl="332.32" xbr="599.15" ybr="668.70" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="135.17" ytl="334.77" xbr="246.18" ybr="662.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="566.14" ytl="309.50" xbr="677.15" ybr="653.40" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="aa_poh_galeriler/aa_poh_galeriler_g19_009.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="31.04" ytl="346.20" xbr="142.05" ybr="620.18" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="814.60" ytl="366.60" xbr="893.70" ybr="487.10" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="139.30" ytl="350.30" xbr="228.40" ybr="621.60" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="565.43" ytl="419.10" xbr="676.44" ybr="642.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="481.91" ytl="339.70" xbr="592.92" ybr="619.47" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="405.50" ytl="402.00" xbr="498.10" ybr="618.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="311.33" ytl="334.60" xbr="412.40" ybr="613.10" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="232.80" ytl="340.90" xbr="319.70" ybr="616.64" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="643.29" ytl="420.30" xbr="754.30" ybr="637.17" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="950.47" ytl="344.90" xbr="1024.00" ybr="629.38" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="891.00" ytl="426.40" xbr="998.50" ybr="630.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="728.57" ytl="408.00" xbr="839.58" ybr="621.90" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="aa_poh_galeriler/aa_poh_galeriler_g19_010.jpg" width="1024" height="577">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="830.81" ytl="416.56" xbr="857.81" ybr="455.16" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="915.50" ytl="408.00" xbr="954.50" ybr="467.39" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="742.20" ytl="419.90" xbr="779.20" ybr="473.56" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="703.60" ytl="423.50" xbr="736.40" ybr="466.23" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="874.60" ytl="414.50" xbr="907.00" ybr="450.76" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="964.97" ytl="426.91" xbr="1019.30" ybr="480.13" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="979.21" ytl="468.60" xbr="1024.00" ybr="534.60" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="930.60" ytl="462.80" xbr="974.90" ybr="533.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="900.80" ytl="460.90" xbr="933.30" ybr="529.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="854.30" ytl="455.30" xbr="903.40" ybr="530.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="711.60" ytl="444.80" xbr="746.30" ybr="525.66" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="258.30" ytl="415.00" xbr="294.80" ybr="520.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="153.10" ytl="438.00" xbr="194.90" ybr="528.69" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="93.26" ytl="432.60" xbr="147.67" ybr="529.29" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="16.02" ytl="428.10" xbr="70.43" ybr="523.42" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="294.80" ytl="412.90" xbr="335.40" ybr="522.70" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="675.20" ytl="445.30" xbr="714.10" ybr="528.69" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="747.68" ytl="457.20" xbr="781.28" ybr="531.72" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="780.30" ytl="446.30" xbr="819.30" ybr="528.73" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="818.34" ytl="442.80" xbr="856.14" ybr="525.58" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="651.40" ytl="422.30" xbr="687.60" ybr="512.44" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="593.94" ytl="422.70" xbr="629.40" ybr="478.97" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="404.20" ytl="413.70" xbr="446.00" ybr="522.70" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="369.50" ytl="414.80" xbr="405.40" ybr="523.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="333.60" ytl="420.70" xbr="372.50" ybr="522.70" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="0.00" ytl="394.00" xbr="46.02" ybr="488.03" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="788.10" ytl="421.63" xbr="820.10" ybr="464.73" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="440.70" ytl="441.90" xbr="473.60" ybr="521.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="473.00" ytl="415.00" xbr="511.20" ybr="525.10" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="506.90" ytl="447.20" xbr="537.40" ybr="528.09" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="536.80" ytl="447.30" xbr="569.60" ybr="526.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="570.90" ytl="444.70" xbr="606.00" ybr="526.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="627.00" ytl="450.70" xbr="671.70" ybr="526.30" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="aa_poh_galeriler/aa_poh_galeriler_g20_013.jpg" width="1024" height="682">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="810.70" ytl="162.70" xbr="909.40" ybr="545.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="106.44" ytl="103.78" xbr="288.83" ybr="675.03" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="314.10" ytl="147.50" xbr="467.40" ybr="613.60" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="469.90" ytl="169.00" xbr="591.50" ybr="608.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="608.00" ytl="124.70" xbr="730.90" ybr="612.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="722.00" ytl="165.20" xbr="838.50" ybr="546.50" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="aa_poh_galeriler/aa_poh_galeriler_g21_000.jpg" width="1120" height="630">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="318.80" ytl="121.50" xbr="484.79" ybr="630.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="493.12" ytl="137.90" xbr="668.50" ybr="630.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="689.69" ytl="130.80" xbr="872.08" ybr="630.00" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="aa_poh_galeriler/aa_poh_galeriler_g21_001.jpg" width="1024" height="683">
+  </image>
+  <image id="56" name="aa_poh_galeriler/aa_poh_galeriler_g21_002.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="168.10" ytl="120.84" xbr="422.79" ybr="683.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="367.25" ytl="89.10" xbr="814.80" ybr="683.00" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="aa_poh_galeriler/aa_poh_galeriler_g21_003.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="549.90" ytl="109.40" xbr="1022.79" ybr="560.10" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="aa_poh_galeriler/aa_poh_galeriler_g21_004.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="189.66" ytl="123.38" xbr="372.05" ybr="683.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="38.71" ytl="113.23" xbr="221.10" ybr="683.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="363.44" ytl="95.50" xbr="596.60" ybr="679.40" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="aa_poh_galeriler/aa_poh_galeriler_g21_005.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="854.40" ytl="142.40" xbr="940.30" ybr="343.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="553.36" ytl="98.35" xbr="1023.17" ybr="466.61" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="aa_poh_galeriler/aa_poh_galeriler_g21_006.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="573.85" ytl="242.77" xbr="628.40" ybr="398.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="823.36" ytl="256.30" xbr="848.86" ybr="318.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="759.05" ytl="246.58" xbr="788.23" ybr="334.11" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="655.04" ytl="236.43" xbr="717.19" ybr="364.55" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="1" xtl="787.41" ytl="249.92" xbr="813.16" ybr="326.67" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="263.07" ytl="232.63" xbr="370.89" ybr="483.79" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="aa_poh_galeriler/aa_poh_galeriler_g21_007.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="265.05" ytl="240.95" xbr="354.60" ybr="477.65" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="177.10" ytl="247.34" xbr="257.99" ybr="484.05" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="452.41" ytl="239.58" xbr="533.30" ybr="476.28" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="364.21" ytl="240.95" xbr="462.90" ybr="477.65" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="aa_poh_galeriler/aa_poh_galeriler_g21_008.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="734.58" ytl="137.20" xbr="790.30" ybr="299.44" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="949.30" ytl="145.44" xbr="999.61" ybr="285.27" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="981.80" ytl="127.60" xbr="1024.00" ybr="298.07" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="590.20" ytl="161.40" xbr="646.40" ybr="294.87" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="610.47" ytl="270.41" xbr="914.39" ybr="412.01" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="238.56" ytl="275.20" xbr="520.50" ybr="366.99" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="665.60" ytl="148.64" xbr="719.50" ybr="272.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="831.46" ytl="134.90" xbr="901.40" ybr="302.64" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="aa_poh_galeriler/aa_poh_galeriler_g21_009.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="186.50" ytl="75.50" xbr="496.70" ybr="681.25" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="124.30" ytl="139.31" xbr="186.35" ybr="639.50" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="aa_poh_galeriler/aa_poh_galeriler_g21_010.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="332.30" ytl="118.00" xbr="502.50" ybr="555.90" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="118.60" ytl="148.30" xbr="208.46" ybr="548.60" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="165.20" ytl="125.40" xbr="330.50" ybr="572.30" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="aa_poh_galeriler/aa_poh_galeriler_g21_011.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="704.90" ytl="302.30" xbr="753.10" ybr="468.32" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="244.70" ytl="193.36" xbr="373.90" ybr="519.90" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="513.30" ytl="267.07" xbr="605.60" ybr="492.10" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="583.73" ytl="287.54" xbr="643.30" ybr="484.70" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="641.10" ytl="293.30" xbr="694.10" ybr="477.33" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="810.60" ytl="314.60" xbr="852.20" ybr="448.66" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="739.33" ytl="317.00" xbr="777.60" ybr="447.85" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="aa_poh_galeriler/aa_poh_galeriler_g21_012.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="685.28" ytl="209.70" xbr="758.00" ybr="277.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="617.30" ytl="168.00" xbr="699.70" ybr="264.40" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="755.70" ytl="226.90" xbr="823.50" ybr="322.55" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="aa_poh_galeriler/aa_poh_galeriler_g21_013.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="510.80" ytl="113.11" xbr="910.30" ybr="683.00" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="aa_poh_galeriler/aa_poh_galeriler_g21_014.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="448.53" ytl="507.10" xbr="628.20" ybr="677.27" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="323.46" ytl="410.47" xbr="398.90" ybr="672.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="356.60" ytl="383.00" xbr="485.10" ybr="678.22" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="439.10" ytl="226.70" xbr="1019.54" ybr="683.00" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="aa_poh_galeriler/aa_poh_galeriler_g21_015.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="655.10" ytl="229.50" xbr="1024.00" ybr="556.94" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="205.00" ytl="160.30" xbr="729.60" ybr="340.90" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="aa_poh_galeriler/aa_poh_galeriler_g21_016.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="77.10" ytl="64.60" xbr="264.30" ybr="559.78" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="333.40" ytl="129.50" xbr="472.30" ybr="527.10" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="548.50" ytl="174.10" xbr="653.30" ybr="506.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="688.80" ytl="199.60" xbr="759.40" ybr="488.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="768.21" ytl="219.50" xbr="838.81" ybr="482.79" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="831.63" ytl="236.30" xbr="886.00" ybr="475.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="903.51" ytl="255.20" xbr="972.10" ybr="465.70" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="aa_poh_galeriler/aa_poh_galeriler_g21_017.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="227.20" ytl="141.90" xbr="491.90" ybr="683.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="608.80" ytl="161.60" xbr="867.90" ybr="683.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="431.20" ytl="144.00" xbr="625.65" ybr="683.00" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="aa_poh_galeriler/aa_poh_galeriler_g21_018.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="450.90" ytl="116.60" xbr="612.50" ybr="546.66" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="760.10" ytl="137.50" xbr="909.61" ybr="489.65" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="aa_poh_galeriler/aa_poh_galeriler_g22_000.jpg" width="1120" height="747">
+  </image>
+  <image id="74" name="aa_poh_galeriler/aa_poh_galeriler_g22_001.jpg" width="1024" height="683">
+  </image>
+  <image id="75" name="aa_poh_galeriler/aa_poh_galeriler_g22_002.jpg" width="1024" height="683">
+  </image>
+  <image id="76" name="aa_poh_galeriler/aa_poh_galeriler_g22_003.jpg" width="1024" height="683">
+  </image>
+  <image id="77" name="aa_poh_galeriler/aa_poh_galeriler_g22_004.jpg" width="1024" height="683">
+  </image>
+  <image id="78" name="aa_poh_galeriler/aa_poh_galeriler_g22_005.jpg" width="1024" height="683">
+  </image>
+  <image id="79" name="aa_poh_galeriler/aa_poh_galeriler_g22_006.jpg" width="1024" height="683">
+  </image>
+  <image id="80" name="aa_poh_galeriler/aa_poh_galeriler_g22_007.jpg" width="1024" height="683">
+  </image>
+  <image id="81" name="aa_poh_galeriler/aa_poh_galeriler_g22_008.jpg" width="1130" height="635">
+  </image>
+  <image id="82" name="aa_poh_galeriler/aa_poh_galeriler_g22_009.jpg" width="1024" height="683">
+  </image>
+  <image id="83" name="aa_poh_galeriler/aa_poh_galeriler_g22_010.jpg" width="1024" height="683">
+  </image>
+  <image id="84" name="aa_poh_galeriler/aa_poh_galeriler_g22_011.jpg" width="1024" height="683">
+  </image>
+  <image id="85" name="aa_poh_galeriler/aa_poh_galeriler_g22_012.jpg" width="1024" height="683">
+  </image>
+  <image id="86" name="aa_poh_galeriler/aa_poh_galeriler_g22_013.jpg" width="1024" height="683">
+  </image>
+  <image id="87" name="aa_poh_galeriler/aa_poh_galeriler_g22_014.jpg" width="1024" height="683">
+  </image>
+  <image id="88" name="aa_poh_galeriler/aa_poh_galeriler_g22_015.jpg" width="1024" height="683">
+  </image>
+  <image id="89" name="aa_poh_galeriler/aa_poh_galeriler_g22_016.jpg" width="1024" height="683">
+  </image>
+  <image id="90" name="aa_poh_galeriler/aa_poh_galeriler_g22_017.jpg" width="1024" height="683">
+  </image>
+  <image id="91" name="aa_poh_galeriler/aa_poh_galeriler_g22_018.jpg" width="1024" height="683">
+  </image>
+  <image id="92" name="aa_poh_galeriler/aa_poh_galeriler_g22_019.jpg" width="1024" height="683">
+  </image>
+  <image id="93" name="aa_poh_galeriler/aa_poh_galeriler_g22_020.jpg" width="1024" height="683">
+  </image>
+  <image id="94" name="aa_poh_haberleri/aa_poh_haberleri_0000.jpg" width="864" height="486">
+  </image>
+  <image id="95" name="aa_poh_haberleri/aa_poh_haberleri_0001.jpg" width="864" height="486">
+  </image>
+  <image id="96" name="aa_poh_haberleri/aa_poh_haberleri_0002.jpg" width="864" height="486">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="658.72" ytl="75.35" xbr="710.21" ybr="212.65" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="423.89" ytl="179.87" xbr="742.18" ybr="486.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="52.55" ytl="87.82" xbr="104.04" ybr="225.12" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="108.74" ytl="71.45" xbr="160.23" ybr="208.75" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="172.71" ytl="63.65" xbr="224.20" ybr="200.95" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="227.32" ytl="56.63" xbr="278.80" ybr="193.93" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="288.90" ytl="39.46" xbr="342.77" ybr="184.60" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="345.89" ytl="48.04" xbr="397.38" ybr="185.34" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="531.56" ytl="55.84" xbr="583.05" ybr="193.15" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="589.29" ytl="76.10" xbr="640.78" ybr="183.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="479.29" ytl="62.10" xbr="530.78" ybr="191.58" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="398.94" ytl="54.28" xbr="450.43" ybr="181.40" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="726.59" ytl="65.99" xbr="785.10" ybr="218.10" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="aa_poh_haberleri/aa_poh_haberleri_0003.jpg" width="864" height="486">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="360.70" ytl="96.40" xbr="864.00" ybr="485.68" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="aa_poh_haberleri/aa_poh_haberleri_0004.jpg" width="864" height="486">
+  </image>
+  <image id="99" name="aa_poh_haberleri/aa_poh_haberleri_0005.jpg" width="864" height="486">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="721.91" ytl="234.00" xbr="789.70" ybr="386.40" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="650.44" ytl="194.93" xbr="717.90" ybr="384.40" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="580.90" ytl="186.20" xbr="649.20" ybr="392.48" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="437.06" ytl="197.30" xbr="506.51" ybr="366.54" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="503.40" ytl="208.40" xbr="565.80" ybr="375.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="798.80" ytl="254.70" xbr="859.30" ybr="385.70" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="aa_poh_haberleri/aa_poh_haberleri_0006.jpg" width="864" height="486">
+  </image>
+  <image id="101" name="aa_poh_haberleri/aa_poh_haberleri_000_01.jpg" width="1130" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="644.60" ytl="257.39" xbr="762.90" ybr="587.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="43.70" ytl="226.67" xbr="174.50" ybr="570.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="175.78" ytl="229.47" xbr="306.58" ybr="573.01" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="320.50" ytl="247.13" xbr="447.28" ybr="583.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="474.30" ytl="249.98" xbr="593.70" ybr="593.51" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="829.70" ytl="244.85" xbr="954.80" ybr="588.39" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="972.10" ytl="259.09" xbr="1096.67" ybr="602.63" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="aa_poh_haberleri/aa_poh_haberleri_000_02.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="344.36" ytl="132.80" xbr="938.70" ybr="680.54" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="aa_poh_haberleri/aa_poh_haberleri_000_03.jpg" width="1024" height="683">
+  </image>
+  <image id="104" name="aa_poh_haberleri/aa_poh_haberleri_000_04.jpg" width="1024" height="683">
+  </image>
+  <image id="105" name="aa_poh_haberleri/aa_poh_haberleri_000_05.jpg" width="1024" height="682">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="707.60" ytl="412.31" xbr="905.37" ybr="627.70" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="aa_poh_haberleri/aa_poh_haberleri_000_06.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="330.60" ytl="87.93" xbr="768.60" ybr="507.70" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="394.10" ytl="143.80" xbr="606.40" ybr="625.00" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="aa_poh_haberleri/aa_poh_haberleri_000_07.jpg" width="1024" height="683">
+  </image>
+  <image id="108" name="aa_poh_haberleri/aa_poh_haberleri_000_08.jpg" width="1024" height="683">
+  </image>
+  <image id="109" name="aa_poh_haberleri/aa_poh_haberleri_000_09.jpg" width="1024" height="683">
+  </image>
+  <image id="110" name="aa_poh_haberleri/aa_poh_haberleri_000_10.jpg" width="1024" height="683">
+  </image>
+  <image id="111" name="aa_poh_haberleri/aa_poh_haberleri_000_11.jpg" width="1024" height="682">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="489.60" ytl="406.90" xbr="630.00" ybr="613.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="568.80" ytl="112.26" xbr="667.50" ybr="332.40" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="aa_poh_haberleri/aa_poh_haberleri_000_12.jpg" width="1024" height="683">
+  </image>
+  <image id="113" name="aa_poh_haberleri/aa_poh_haberleri_000_13.jpg" width="1024" height="682">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="401.20" ytl="115.24" xbr="781.20" ybr="602.60" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="68.00" ytl="122.84" xbr="391.00" ybr="584.80" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="aa_poh_haberleri/aa_poh_haberleri_000_14.jpg" width="1024" height="682">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="611.00" ytl="113.60" xbr="833.02" ybr="335.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="51.30" ytl="401.99" xbr="281.80" ybr="650.60" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="aa_poh_haberleri/aa_poh_haberleri_000_15.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="464.00" ytl="140.40" xbr="551.70" ybr="356.59" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="772.60" ytl="102.22" xbr="904.90" ybr="408.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="260.90" ytl="121.30" xbr="427.90" ybr="624.20" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="aa_poh_haberleri/aa_poh_haberleri_000_16.jpg" width="1024" height="683">
+  </image>
+  <image id="117" name="aa_poh_haberleri/aa_poh_haberleri_000_17.jpg" width="1024" height="683">
+  </image>
+  <image id="118" name="aa_poh_haberleri/aa_poh_haberleri_000_18.jpg" width="1024" height="683">
+  </image>
+  <image id="119" name="aa_poh_haberleri/aa_poh_haberleri_000_19.jpg" width="1024" height="683">
+  </image>
+  <image id="120" name="aa_poh_haberleri/aa_poh_haberleri_000_20.jpg" width="1024" height="683">
+  </image>
+  <image id="121" name="aa_poh_haberleri/aa_poh_haberleri_000_21.jpg" width="1024" height="683">
+  </image>
+  <image id="122" name="aa_poh_haberleri/aa_poh_haberleri_000_22.jpg" width="1024" height="683">
+  </image>
+  <image id="123" name="aa_poh_haberleri/aa_poh_haberleri_000_23.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="440.20" ytl="118.02" xbr="571.30" ybr="466.70" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="122.80" ytl="108.80" xbr="196.90" ybr="278.93" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="17.50" ytl="132.70" xbr="68.50" ybr="266.09" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="960.80" ytl="160.80" xbr="1008.70" ybr="283.21" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="aa_poh_haberleri/aa_poh_haberleri_000_24.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="141.40" ytl="235.78" xbr="344.50" ybr="565.90" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="620.90" ytl="226.30" xbr="796.50" ybr="528.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="456.00" ytl="224.40" xbr="618.40" ybr="517.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="330.00" ytl="222.51" xbr="474.30" ybr="550.70" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="aa_poh_haberleri/aa_poh_haberleri_000_25.jpg" width="1024" height="683">
+  </image>
+  <image id="126" name="aa_poh_haberleri/aa_poh_haberleri_000_26.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="94.50" ytl="341.00" xbr="171.80" ybr="479.69" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="545.00" ytl="300.60" xbr="613.80" ybr="491.34" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="928.60" ytl="324.50" xbr="994.90" ybr="480.94" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="36.70" ytl="387.50" xbr="94.41" ybr="480.94" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="aa_poh_haberleri/aa_poh_haberleri_000_27.jpg" width="1024" height="683">
+  </image>
+  <image id="128" name="aa_poh_haberleri/aa_poh_haberleri_000_28.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="363.20" ytl="323.40" xbr="666.52" ybr="620.16" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="aa_poh_haberleri/aa_poh_haberleri_000_30.jpg" width="750" height="500">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="452.70" ytl="165.08" xbr="581.50" ybr="412.90" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="104.30" ytl="172.88" xbr="250.60" ybr="397.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="243.40" ytl="168.68" xbr="348.31" ybr="402.10" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="337.60" ytl="162.09" xbr="456.20" ybr="394.30" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="aa_poh_haberleri/aa_poh_haberleri_000_34.jpg" width="384" height="216">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="253.60" ytl="90.80" xbr="288.90" ybr="152.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="214.70" ytl="91.55" xbr="247.70" ybr="150.10" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="aa_poh_haberleri/aa_poh_haberleri_0010.jpg" width="864" height="486">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="586.83" ytl="351.29" xbr="658.90" ybr="462.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="759.90" ytl="343.72" xbr="845.40" ybr="457.60" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="674.24" ytl="268.50" xbr="751.54" ybr="339.27" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="101.99" ytl="31.37" xbr="189.77" ybr="234.97" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="204.00" ytl="296.52" xbr="269.00" ybr="446.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="28.60" ytl="291.86" xbr="83.70" ybr="437.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="710.40" ytl="46.52" xbr="799.30" ybr="237.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="296.00" ytl="280.78" xbr="411.20" ybr="475.60" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="aa_poh_haberleri/aa_poh_haberleri_0011.jpg" width="864" height="486">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="540.21" ytl="256.62" xbr="674.00" ybr="486.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="743.00" ytl="24.69" xbr="832.53" ybr="168.25" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="750.58" ytl="267.11" xbr="853.50" ybr="484.10" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="540.20" ytl="121.43" xbr="573.22" ybr="195.60" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="497.09" ytl="124.34" xbr="521.94" ybr="193.27" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="670.16" ytl="274.10" xbr="798.70" ybr="486.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="590.33" ytl="17.70" xbr="712.51" ybr="236.98" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="174.80" ytl="268.27" xbr="241.10" ybr="450.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="455.13" ytl="124.34" xbr="479.98" ybr="193.27" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="405.02" ytl="121.43" xbr="429.86" ybr="190.36" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="364.81" ytl="125.50" xbr="389.66" ybr="194.43" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="327.51" ytl="127.25" xbr="352.36" ybr="196.18" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="287.88" ytl="129.90" xbr="312.73" ybr="198.83" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="143.90" ytl="30.21" xbr="235.23" ybr="237.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="15.20" ytl="47.69" xbr="125.70" ybr="235.50" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="aa_poh_haberleri/aa_poh_haberleri_0013.jpg" width="1130" height="635">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="4.60" ytl="159.70" xbr="281.40" ybr="634.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="727.10" ytl="138.40" xbr="980.40" ybr="634.48" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="458.40" ytl="174.20" xbr="694.90" ybr="635.00" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="aa_poh_haberleri/aa_poh_haberleri_0014.jpg" width="1130" height="635">
+  </image>
+  <image id="136" name="aa_poh_haberleri/aa_poh_haberleri_001_01.jpg" width="750" height="500">
+  </image>
+  <image id="137" name="aa_poh_haberleri/aa_poh_haberleri_001_02.jpg" width="750" height="500">
+  </image>
+  <image id="138" name="aa_poh_haberleri/aa_poh_haberleri_001_03.jpg" width="750" height="500">
+  </image>
+  <image id="139" name="aa_poh_haberleri/aa_poh_haberleri_001_09.jpg" width="384" height="216">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="56.20" ytl="54.81" xbr="124.76" ybr="169.60" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="aa_poh_haberleri/aa_poh_haberleri_001_10.jpg" width="384" height="216">
+  </image>
+  <image id="141" name="aa_poh_haberleri/aa_poh_haberleri_001_11.jpg" width="384" height="208">
+  </image>
+  <image id="142" name="aa_poh_haberleri/aa_poh_haberleri_002_01.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="244.10" ytl="96.90" xbr="298.10" ybr="307.03" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="739.11" ytl="95.14" xbr="901.56" ybr="467.61" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="372.93" ytl="154.27" xbr="675.73" ybr="635.12" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="581.20" ytl="94.27" xbr="638.70" ybr="192.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="297.90" ytl="98.70" xbr="354.50" ybr="285.85" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="724.10" ytl="99.57" xbr="808.10" ybr="315.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="655.30" ytl="88.98" xbr="726.90" ybr="287.60" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="507.90" ytl="95.20" xbr="562.80" ybr="184.40" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="65.90" ytl="60.70" xbr="188.70" ybr="405.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="159.40" ytl="65.20" xbr="247.80" ybr="334.40" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="434.70" ytl="96.00" xbr="486.90" ybr="262.03" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="360.60" ytl="100.50" xbr="419.80" ybr="266.44" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="aa_poh_haberleri/aa_poh_haberleri_002_02.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="474.40" ytl="36.90" xbr="628.00" ybr="633.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="202.60" ytl="171.00" xbr="535.40" ybr="636.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="599.70" ytl="105.74" xbr="680.10" ybr="475.60" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="1" xtl="163.80" ytl="109.30" xbr="283.10" ybr="543.50" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="aa_poh_haberleri/aa_poh_haberleri_002_03.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="27.10" ytl="12.20" xbr="448.10" ybr="632.60" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="530.00" ytl="123.40" xbr="737.50" ybr="629.10" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="625.29" ytl="51.04" xbr="702.20" ybr="230.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="316.50" ytl="114.57" xbr="449.80" ybr="415.60" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="aa_poh_haberleri/aa_poh_haberleri_002_04.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="469.64" ytl="136.67" xbr="905.09" ybr="554.24" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="487.40" ytl="136.67" xbr="621.03" ybr="317.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="490.70" ytl="137.99" xbr="577.52" ybr="257.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="76.15" ytl="95.81" xbr="491.90" ybr="590.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="269.27" ytl="140.63" xbr="461.50" ybr="338.70" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="347.04" ytl="139.31" xbr="462.80" ybr="288.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="387.25" ytl="139.97" xbr="460.90" ybr="265.60" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="484.10" ytl="130.74" xbr="703.41" ybr="420.50" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="aa_poh_haberleri/aa_poh_haberleri_002_05.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="325.50" ytl="30.99" xbr="839.93" ybr="636.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="354.50" ytl="78.27" xbr="437.28" ybr="282.20" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="aa_poh_haberleri/aa_poh_haberleri_002_06.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="485.60" ytl="124.79" xbr="785.80" ybr="635.30" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="aa_poh_haberleri/aa_poh_haberleri_002_07.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="691.00" ytl="2.76" xbr="953.18" ybr="636.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="104.20" ytl="0.00" xbr="361.13" ybr="636.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="365.40" ytl="0.00" xbr="683.18" ybr="636.00" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="aa_poh_haberleri/aa_poh_haberleri_002_08.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="179.20" ytl="181.90" xbr="295.83" ybr="636.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="459.80" ytl="127.20" xbr="694.60" ybr="636.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="1" xtl="829.50" ytl="182.76" xbr="918.80" ybr="634.60" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="683.00" ytl="144.80" xbr="882.60" ybr="636.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="247.20" ytl="141.30" xbr="461.70" ybr="635.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="2.80" ytl="120.10" xbr="230.50" ybr="636.00" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="aa_poh_haberleri/aa_poh_haberleri_002_09.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="151.90" ytl="132.46" xbr="414.10" ybr="636.00" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="aa_poh_haberleri/aa_poh_haberleri_002_10.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="651.30" ytl="185.40" xbr="883.50" ybr="627.60" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="557.70" ytl="85.70" xbr="692.02" ybr="221.72" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="510.98" ytl="49.52" xbr="590.50" ybr="176.70" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="451.87" ytl="96.29" xbr="544.70" ybr="274.70" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="350.40" ytl="40.70" xbr="446.70" ybr="157.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="267.50" ytl="112.17" xbr="362.00" ybr="268.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="219.80" ytl="58.35" xbr="288.80" ybr="223.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="95.40" ytl="123.64" xbr="213.70" ybr="490.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="125.40" ytl="188.05" xbr="341.70" ybr="597.60" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="501.30" ytl="157.17" xbr="670.80" ybr="568.40" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="308.90" ytl="150.99" xbr="503.20" ybr="561.40" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="690.10" ytl="99.80" xbr="826.10" ybr="237.60" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="aa_poh_haberleri/aa_poh_haberleri_002_11.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="548.00" ytl="40.70" xbr="895.80" ybr="635.50" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="aa_poh_haberleri/aa_poh_haberleri_002_12.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="265.60" ytl="211.87" xbr="634.70" ybr="636.00" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="aa_poh_haberleri/aa_poh_haberleri_002_13.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="139.50" ytl="58.30" xbr="383.20" ybr="636.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="609.80" ytl="80.40" xbr="831.40" ybr="636.00" z_order="0">
+    </box>
+  </image>
+  <image id="155" name="aa_poh_haberleri/aa_poh_haberleri_002_14.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="268.30" ytl="91.90" xbr="587.00" ybr="632.90" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="aa_poh_haberleri/aa_poh_haberleri_002_15.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="633.60" ytl="196.00" xbr="794.36" ybr="542.82" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="aa_poh_haberleri/aa_poh_haberleri_002_16.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="341.55" ytl="38.90" xbr="635.45" ybr="636.00" z_order="0">
+    </box>
+  </image>
+  <image id="158" name="aa_poh_haberleri/aa_poh_haberleri_002_17.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="391.30" ytl="126.64" xbr="501.80" ybr="502.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="752.50" ytl="127.96" xbr="861.60" ybr="515.90" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="201.46" ytl="103.57" xbr="265.20" ybr="254.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="41.96" ytl="133.23" xbr="147.90" ybr="503.36" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="231.10" ytl="132.57" xbr="319.90" ybr="272.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="356.35" ytl="100.94" xbr="424.00" ybr="206.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="577.80" ytl="119.39" xbr="685.64" ybr="297.10" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="471.03" ytl="116.80" xbr="530.20" ybr="192.90" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="89.40" ytl="155.64" xbr="267.80" ybr="587.70" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="260.10" ytl="137.19" xbr="428.00" ybr="578.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="623.30" ytl="154.32" xbr="789.80" ybr="602.90" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="455.20" ytl="147.73" xbr="617.90" ybr="615.40" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="aa_poh_haberleri/aa_poh_haberleri_002_18.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="362.30" ytl="214.98" xbr="590.80" ybr="571.90" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="591.70" ytl="226.16" xbr="834.00" ybr="585.10" z_order="0">
+    </box>
+  </image>
+  <image id="160" name="aa_poh_haberleri/aa_poh_haberleri_002_19.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="427.50" ytl="180.00" xbr="760.80" ybr="635.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="364.90" ytl="100.94" xbr="478.70" ybr="232.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="46.60" ytl="108.80" xbr="442.50" ybr="636.00" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="aa_poh_haberleri/aa_poh_haberleri_002_20.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="449.40" ytl="205.27" xbr="623.30" ybr="636.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="549.10" ytl="132.04" xbr="785.70" ybr="629.80" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="aa_poh_haberleri/aa_poh_haberleri_002_21.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="563.19" ytl="454.97" xbr="588.04" ybr="550.40" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="696.42" ytl="458.50" xbr="736.32" ybr="551.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="490.00" ytl="357.91" xbr="562.50" ybr="602.40" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="130.80" ytl="378.21" xbr="201.60" ybr="580.40" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="613.50" ytl="419.68" xbr="664.80" ybr="566.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="257.00" ytl="165.56" xbr="480.40" ybr="634.20" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="aa_poh_haberleri/aa_poh_haberleri_002_22.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="191.70" ytl="138.21" xbr="498.90" ybr="635.10" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="aa_poh_haberleri/aa_poh_haberleri_002_23.jpg" width="1130" height="635">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="1072.13" ytl="245.86" xbr="1124.30" ybr="422.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="242.30" ytl="127.80" xbr="370.20" ybr="446.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="468.70" ytl="196.52" xbr="567.50" ybr="420.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="658.10" ytl="225.59" xbr="730.50" ybr="408.20" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="816.70" ytl="259.07" xbr="871.50" ybr="406.40" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="893.30" ytl="188.60" xbr="976.30" ybr="446.90" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="981.39" ytl="224.71" xbr="1051.20" ybr="426.68" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="aa_poh_haberleri/aa_poh_haberleri_002_24.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="437.90" ytl="63.21" xbr="719.50" ybr="636.00" z_order="0">
+    </box>
+  </image>
+  <image id="166" name="aa_poh_haberleri/aa_poh_haberleri_002_25.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="475.80" ytl="146.15" xbr="790.10" ybr="633.30" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="aa_poh_haberleri/aa_poh_haberleri_002_26.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="646.60" ytl="244.74" xbr="917.90" ybr="506.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="471.27" ytl="284.95" xbr="703.70" ybr="561.50" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="320.99" ytl="269.79" xbr="438.10" ybr="533.15" z_order="0">
+    </box>
+  </image>
+  <image id="168" name="aa_poh_haberleri/aa_poh_haberleri_002_27.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="298.90" ytl="57.90" xbr="625.80" ybr="636.00" z_order="0">
+    </box>
+  </image>
+  <image id="170" name="aa_poh_haberleri/aa_poh_haberleri_002_29.jpg" width="954" height="636">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="83.00" ytl="270.86" xbr="142.47" ybr="416.30" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="350.00" ytl="239.60" xbr="406.50" ybr="393.86" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="283.04" ytl="231.88" xbr="346.95" ybr="386.14" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="214.60" ytl="248.06" xbr="275.20" ybr="402.32" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="155.40" ytl="260.93" xbr="213.45" ybr="415.19" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="40.70" ytl="283.73" xbr="86.94" ybr="428.80" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="608.92" ytl="266.82" xbr="678.60" ybr="410.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="550.80" ytl="263.10" xbr="608.40" ybr="414.46" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="755.30" ytl="251.70" xbr="831.30" ybr="415.60" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="479.79" ytl="237.76" xbr="548.50" ybr="402.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="407.70" ytl="244.38" xbr="470.15" ybr="398.64" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="838.10" ytl="247.30" xbr="912.50" ybr="408.93" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="690.19" ytl="260.94" xbr="754.10" ybr="415.20" z_order="0">
+    </box>
+  </image>
+  <image id="171" name="aa_poh_haberleri/aa_poh_haberleri_002_30.jpg" width="954" height="636">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="612.00" ytl="89.00" xbr="717.00" ybr="205.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="542.00" ytl="126.00" xbr="664.00" ybr="468.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="97.00" ytl="61.00" xbr="530.00" ybr="628.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="374.00" ytl="156.00" xbr="578.00" ybr="612.00" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="aa_poh_haberleri/aa_poh_haberleri_002_31.jpg" width="954" height="636">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="155.00" ytl="24.00" xbr="420.00" ybr="626.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="525.00" ytl="95.00" xbr="765.00" ybr="628.00" z_order="0">
+    </box>
+  </image>
+  <image id="173" name="aa_poh_haberleri/aa_poh_haberleri_002_32.jpg" width="750" height="500">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="50.00" ytl="85.00" xbr="496.00" ybr="494.00" z_order="0">
+    </box>
+  </image>
+  <image id="174" name="aa_poh_haberleri/aa_poh_haberleri_002_34.jpg" width="750" height="500">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="39.00" ytl="69.00" xbr="133.00" ybr="293.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="421.00" ytl="34.00" xbr="615.00" ybr="495.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="151.00" ytl="55.00" xbr="276.00" ybr="451.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="288.00" ytl="69.00" xbr="352.00" ybr="246.00" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="aa_poh_haberleri/aa_poh_haberleri_002_38.jpg" width="318" height="216">
+  </image>
+  <image id="176" name="aa_poh_haberleri/aa_poh_haberleri_002_42.jpg" width="384" height="216">
+  </image>
+  <image id="177" name="aa_poh_haberleri/aa_poh_haberleri_002_43.jpg" width="384" height="216">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="63.00" ytl="76.00" xbr="114.00" ybr="200.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="144.00" ytl="94.00" xbr="176.00" ybr="195.00" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="aa_poh_haberleri/aa_poh_haberleri_003_01.jpg" width="750" height="489">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="246.00" ytl="150.00" xbr="312.00" ybr="380.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="408.00" ytl="160.00" xbr="496.00" ybr="380.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="318.00" ytl="150.00" xbr="400.00" ybr="379.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="100.00" ytl="150.00" xbr="219.00" ybr="367.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="490.00" ytl="157.00" xbr="617.00" ybr="392.00" z_order="0">
+    </box>
+  </image>
+  <image id="179" name="aa_poh_haberleri/aa_poh_haberleri_003_02.jpg" width="750" height="478">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="458.00" ytl="107.00" xbr="749.00" ybr="471.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="153.00" ytl="153.00" xbr="291.00" ybr="474.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="341.00" ytl="144.00" xbr="406.00" ybr="359.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="263.00" ytl="144.00" xbr="347.00" ybr="457.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="0.00" ytl="153.00" xbr="211.00" ybr="473.00" z_order="0">
+    </box>
+  </image>
+  <image id="180" name="aa_poh_haberleri/aa_poh_haberleri_003_03.jpg" width="750" height="468">
+  </image>
+  <image id="181" name="aa_poh_haberleri/aa_poh_haberleri_003_04.jpg" width="750" height="463">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="618.00" ytl="74.00" xbr="735.00" ybr="301.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="108.00" ytl="64.00" xbr="298.00" ybr="457.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="332.00" ytl="94.00" xbr="404.00" ybr="268.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="476.00" ytl="66.00" xbr="592.00" ybr="420.00" z_order="0">
+    </box>
+  </image>
+  <image id="182" name="aa_poh_haberleri/aa_poh_haberleri_003_05.jpg" width="750" height="474">
+  </image>
+  <image id="183" name="aa_poh_haberleri/aa_poh_haberleri_003_06.jpg" width="750" height="468">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="89.00" ytl="2.00" xbr="311.00" ybr="461.00" z_order="0">
+    </box>
+  </image>
+  <image id="184" name="aa_poh_haberleri/aa_poh_haberleri_003_09.jpg" width="384" height="216">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="185.00" ytl="147.00" xbr="212.00" ybr="190.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="85.00" ytl="130.00" xbr="101.00" ybr="179.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="246.00" ytl="159.00" xbr="282.00" ybr="214.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="211.00" ytl="150.00" xbr="236.00" ybr="184.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="276.00" ytl="145.00" xbr="299.00" ybr="171.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="240.00" ytl="143.00" xbr="260.00" ybr="178.00" z_order="0">
+    </box>
+  </image>
+  <image id="185" name="aa_poh_haberleri/aa_poh_haberleri_003_11.jpg" width="384" height="216">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="318.00" ytl="27.00" xbr="363.00" ybr="208.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="148.00" ytl="8.00" xbr="223.00" ybr="214.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="273.00" ytl="27.00" xbr="340.00" ybr="213.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="0.00" ytl="3.00" xbr="61.00" ybr="213.00" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="aa_poh_haberleri/aa_poh_haberleri_003_12.jpg" width="384" height="216">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="166.00" ytl="31.00" xbr="303.00" ybr="214.00" z_order="0">
+    </box>
+  </image>
+  <image id="187" name="aa_poh_haberleri/aa_poh_haberleri_003_13.jpg" width="384" height="216">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="174.00" ytl="47.00" xbr="233.00" ybr="204.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="107.00" ytl="37.00" xbr="166.00" ybr="214.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="221.00" ytl="48.00" xbr="269.00" ybr="198.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="294.00" ytl="26.00" xbr="348.00" ybr="176.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="258.00" ytl="36.00" xbr="307.00" ybr="187.00" z_order="0">
+    </box>
+  </image>
+  <image id="188" name="aa_poh_haberleri/aa_poh_haberleri_003_14.jpg" width="384" height="216">
+  </image>
+  <image id="189" name="aa_poh_haberleri/aa_poh_haberleri_003_16.jpg" width="384" height="216">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="58.00" ytl="63.00" xbr="224.00" ybr="213.00" z_order="0">
+    </box>
+  </image>
+  <image id="190" name="aa_poh_haberleri/aa_poh_haberleri_003_17.jpg" width="384" height="216">
+  </image>
+  <image id="191" name="aa_poh_haberleri/aa_poh_haberleri_003_18.jpg" width="384" height="216">
+  </image>
+  <image id="192" name="aa_poh_haberleri/aa_poh_haberleri_005_01.jpg" width="750" height="422">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="360.00" ytl="236.00" xbr="412.00" ybr="377.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="311.00" ytl="242.00" xbr="352.00" ybr="384.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="309.00" ytl="203.00" xbr="352.00" ybr="264.00" z_order="0">
+    </box>
+  </image>
+  <image id="193" name="aa_poh_haberleri/aa_poh_haberleri_005_02.jpg" width="750" height="494">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="312.00" ytl="223.00" xbr="352.00" ybr="313.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="350.00" ytl="193.00" xbr="459.00" ybr="469.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="516.00" ytl="220.00" xbr="539.00" ybr="318.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="439.00" ytl="224.00" xbr="467.00" ybr="312.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="321.00" ytl="98.00" xbr="354.00" ybr="162.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="266.00" ytl="221.00" xbr="295.00" ybr="316.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="242.00" ytl="219.00" xbr="273.00" ybr="319.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="289.00" ytl="223.00" xbr="319.00" ybr="313.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="493.00" ytl="220.00" xbr="522.00" ybr="318.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="465.00" ytl="223.00" xbr="498.00" ybr="316.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="531.00" ytl="217.00" xbr="560.00" ybr="325.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="414.00" ytl="98.00" xbr="452.00" ybr="163.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="216.00" ytl="215.00" xbr="253.00" ybr="323.00" z_order="0">
+    </box>
+  </image>
+  <image id="194" name="aa_poh_haberleri/aa_poh_haberleri_005_13.jpg" width="318" height="216">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="205.00" ytl="43.00" xbr="283.00" ybr="213.00" z_order="0">
+    </box>
+  </image>
+  <image id="195" name="aa_poh_haberleri/aa_poh_haberleri_009_01.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="660.00" ytl="153.00" xbr="813.00" ybr="591.00" z_order="0">
+    </box>
+  </image>
+  <image id="196" name="aa_poh_haberleri/aa_poh_haberleri_009_02.jpg" width="1024" height="683">
+  </image>
+  <image id="197" name="aa_poh_haberleri/aa_poh_haberleri_009_03.jpg" width="1024" height="709">
+  </image>
+  <image id="198" name="aa_poh_haberleri/aa_poh_haberleri_009_04.jpg" width="1024" height="683">
+  </image>
+  <image id="199" name="aa_poh_haberleri/aa_poh_haberleri_009_05.jpg" width="1024" height="668">
+  </image>
+  <image id="200" name="aa_poh_haberleri/aa_poh_haberleri_009_06.jpg" width="1024" height="683">
+  </image>
+  <image id="201" name="aa_poh_haberleri/aa_poh_haberleri_009_08.jpg" width="1024" height="725">
+    <box label="uniformed_person" source="semi-auto" occluded="0" xtl="707.34" ytl="231.70" xbr="1001.34" ybr="617.70" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="595.04" ytl="364.94" xbr="824.54" ybr="629.21" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="493.00" ytl="391.00" xbr="696.00" ybr="632.00" z_order="0">
+    </box>
+  </image>
+  <image id="202" name="aa_poh_haberleri/aa_poh_haberleri_009_09.jpg" width="1024" height="754">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="235.00" ytl="57.00" xbr="324.00" ybr="182.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="230.00" ytl="470.00" xbr="422.00" ybr="647.00" z_order="0">
+    </box>
+  </image>
+  <image id="203" name="aa_poh_haberleri/aa_poh_haberleri_009_10.jpg" width="1024" height="729">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="278.00" ytl="248.00" xbr="411.00" ybr="447.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="207.00" ytl="188.00" xbr="328.00" ybr="450.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="130.00" ytl="205.00" xbr="225.00" ybr="485.00" z_order="0">
+    </box>
+  </image>
+  <image id="204" name="aa_poh_haberleri/aa_poh_haberleri_009_11.jpg" width="1024" height="732">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="673.96" ytl="503.16" xbr="758.22" ybr="609.36" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="733.64" ytl="479.46" xbr="829.31" ybr="622.53" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="808.00" ytl="490.00" xbr="926.00" ybr="639.00" z_order="0">
+    </box>
+  </image>
+  <image id="205" name="aa_poh_haberleri/aa_poh_haberleri_009_12.jpg" width="1024" height="733">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="821.00" ytl="405.00" xbr="952.00" ybr="604.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="587.00" ytl="386.00" xbr="859.00" ybr="584.00" z_order="0">
+    </box>
+  </image>
+  <image id="206" name="aa_poh_haberleri/aa_poh_haberleri_009_13.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="351.00" ytl="263.00" xbr="675.00" ybr="474.00" z_order="0">
+    </box>
+  </image>
+  <image id="207" name="aa_poh_haberleri/aa_poh_haberleri_009_14.jpg" width="1024" height="683">
+  </image>
+  <image id="208" name="aa_poh_haberleri/aa_poh_haberleri_009_15.jpg" width="1024" height="683">
+  </image>
+  <image id="209" name="aa_poh_haberleri/aa_poh_haberleri_009_16.jpg" width="1024" height="768">
+  </image>
+  <image id="210" name="aa_poh_haberleri/aa_poh_haberleri_009_17.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="632.00" ytl="88.00" xbr="974.00" ybr="679.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="456.77" ytl="291.30" xbr="712.28" ybr="672.98" z_order="0">
+    </box>
+  </image>
+  <image id="211" name="aa_poh_haberleri/aa_poh_haberleri_009_18.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="524.00" ytl="121.00" xbr="970.00" ybr="678.00" z_order="0">
+    </box>
+  </image>
+  <image id="212" name="aa_poh_haberleri/aa_poh_haberleri_009_19.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="171.00" ytl="251.00" xbr="467.00" ybr="568.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="489.00" ytl="129.00" xbr="812.00" ybr="554.00" z_order="0">
+    </box>
+  </image>
+  <image id="213" name="aa_poh_haberleri/aa_poh_haberleri_009_20.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="546.00" ytl="259.00" xbr="587.00" ybr="376.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="487.00" ytl="269.00" xbr="532.00" ybr="369.00" z_order="0">
+    </box>
+  </image>
+  <image id="214" name="aa_poh_haberleri/aa_poh_haberleri_009_21.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="320.00" ytl="203.00" xbr="481.00" ybr="568.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="551.00" ytl="184.00" xbr="715.00" ybr="602.00" z_order="0">
+    </box>
+  </image>
+  <image id="215" name="aa_poh_haberleri/aa_poh_haberleri_009_22.jpg" width="1024" height="683">
+  </image>
+  <image id="216" name="aa_poh_haberleri/aa_poh_haberleri_009_23.jpg" width="1024" height="716">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="290.00" ytl="91.00" xbr="599.00" ybr="643.00" z_order="0">
+    </box>
+  </image>
+  <image id="217" name="aa_poh_haberleri/aa_poh_haberleri_009_24.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="2.00" ytl="186.00" xbr="742.00" ybr="614.00" z_order="0">
+    </box>
+  </image>
+  <image id="218" name="aa_poh_haberleri/aa_poh_haberleri_009_25.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="431.00" ytl="109.00" xbr="597.00" ybr="519.00" z_order="0">
+    </box>
+  </image>
+  <image id="219" name="aa_poh_haberleri/aa_poh_haberleri_009_26.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="319.00" ytl="123.00" xbr="713.00" ybr="675.00" z_order="0">
+    </box>
+  </image>
+  <image id="220" name="aa_poh_haberleri/aa_poh_haberleri_009_27.jpg" width="749" height="1024">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="203.00" ytl="285.00" xbr="311.00" ybr="576.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="303.00" ytl="359.00" xbr="480.00" ybr="824.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="236.00" ytl="346.00" xbr="352.00" ybr="714.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="427.00" ytl="333.00" xbr="688.00" ybr="955.00" z_order="0">
+    </box>
+  </image>
+  <image id="221" name="aa_poh_haberleri/aa_poh_haberleri_009_28.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="853.00" ytl="338.00" xbr="917.00" ybr="462.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="558.00" ytl="350.00" xbr="599.00" ybr="468.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="281.00" ytl="343.00" xbr="361.00" ybr="540.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="594.00" ytl="341.00" xbr="661.00" ybr="489.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="904.00" ytl="350.00" xbr="943.00" ybr="437.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="430.00" ytl="285.00" xbr="525.00" ybr="666.00" z_order="0">
+    </box>
+  </image>
+  <image id="222" name="aa_poh_haberleri/aa_poh_haberleri_009_29.jpg" width="1024" height="697">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="503.00" ytl="80.00" xbr="822.00" ybr="690.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="428.00" ytl="156.00" xbr="572.00" ybr="687.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="257.81" ytl="106.88" xbr="628.88" ybr="697.00" z_order="0">
+    </box>
+  </image>
+  <image id="223" name="aa_poh_haberleri/aa_poh_haberleri_009_30.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="352.00" ytl="174.00" xbr="761.00" ybr="674.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="217.00" ytl="249.00" xbr="476.00" ybr="676.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="807.00" ytl="276.00" xbr="1001.00" ybr="654.00" z_order="0">
+    </box>
+  </image>
+  <image id="224" name="aa_poh_haberleri/aa_poh_haberleri_009_31.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="293.00" ytl="153.00" xbr="609.00" ybr="676.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="903.00" ytl="247.00" xbr="1024.00" ybr="635.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="593.00" ytl="228.00" xbr="718.00" ybr="571.00" z_order="0">
+    </box>
+  </image>
+  <image id="225" name="aa_poh_haberleri/aa_poh_haberleri_009_32.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="69.00" ytl="290.00" xbr="169.00" ybr="506.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="408.00" ytl="181.00" xbr="597.00" ybr="674.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="153.00" ytl="304.00" xbr="219.00" ybr="422.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="307.00" ytl="227.00" xbr="429.00" ybr="662.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="531.00" ytl="148.00" xbr="757.00" ybr="678.00" z_order="0">
+    </box>
+  </image>
+  <image id="226" name="aa_poh_haberleri/aa_poh_haberleri_009_33.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="195.00" ytl="305.00" xbr="324.00" ybr="545.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="427.00" ytl="338.00" xbr="490.00" ybr="498.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="311.00" ytl="332.00" xbr="380.00" ybr="513.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="503.00" ytl="302.00" xbr="598.00" ybr="545.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="362.00" ytl="337.00" xbr="403.00" ybr="495.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="406.00" ytl="345.00" xbr="440.00" ybr="475.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="196.00" ytl="305.00" xbr="281.00" ybr="545.00" z_order="0">
+    </box>
+  </image>
+  <image id="227" name="aa_poh_haberleri/aa_poh_haberleri_009_34.jpg" width="907" height="1024">
+    <box label="uniformed_person" source="semi-auto" occluded="1" xtl="27.00" ytl="80.00" xbr="881.00" ybr="1003.00" z_order="0">
+    </box>
+  </image>
+  <image id="228" name="aa_poh_haberleri/aa_poh_haberleri_009_35.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="semi-auto" occluded="0" xtl="267.00" ytl="93.00" xbr="770.00" ybr="674.00" z_order="0">
+    </box>
+  </image>
+  <image id="229" name="aa_poh_haberleri/aa_poh_haberleri_009_36.jpg" width="1024" height="820">
+    <box label="uniformed_person" source="semi-auto" occluded="0" xtl="24.00" ytl="71.00" xbr="610.00" ybr="797.00" z_order="0">
+    </box>
+  </image>
+  <image id="230" name="aa_poh_haberleri/aa_poh_haberleri_009_37.jpg" width="1024" height="810">
+  </image>
+  <image id="231" name="aa_poh_haberleri/aa_poh_haberleri_009_38.jpg" width="779" height="1024">
+    <box label="uniformed_person" source="semi-auto" occluded="0" xtl="235.00" ytl="52.00" xbr="774.00" ybr="1021.00" z_order="0">
+    </box>
+  </image>
+  <image id="232" name="aa_poh_haberleri/aa_poh_haberleri_009_39.jpg" width="1130" height="636">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="403.00" ytl="13.00" xbr="1128.00" ybr="625.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="212.54" ytl="214.60" xbr="706.70" ybr="633.26" z_order="0">
+    </box>
+  </image>
+  <image id="233" name="aa_poh_haberleri/aa_poh_haberleri_009_40.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="601.97" ytl="245.65" xbr="721.54" ybr="423.36" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="490.00" ytl="215.00" xbr="600.00" ybr="394.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="4.00" ytl="0.00" xbr="989.00" ybr="678.00" z_order="0">
+    </box>
+  </image>
+  <image id="234" name="aa_poh_haberleri/aa_poh_haberleri_009_41.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="566.00" ytl="51.00" xbr="1023.00" ybr="671.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="571.59" ytl="244.83" xbr="642.92" ybr="435.65" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="624.82" ytl="191.60" xbr="732.20" ybr="381.59" z_order="0">
+    </box>
+  </image>
+  <image id="235" name="aa_poh_haberleri/aa_poh_haberleri_009_42.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="semi-auto" occluded="0" xtl="551.50" ytl="179.32" xbr="698.50" ybr="597.32" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="279.00" ytl="287.00" xbr="348.00" ybr="529.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="334.00" ytl="257.00" xbr="430.00" ybr="546.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="706.00" ytl="119.00" xbr="961.00" ybr="651.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="431.00" ytl="235.00" xbr="539.00" ybr="569.00" z_order="0">
+    </box>
+  </image>
+  <image id="236" name="aa_poh_haberleri/aa_poh_haberleri_009_43.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="320.80" ytl="35.75" xbr="719.09" ybr="683.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="683.58" ytl="54.78" xbr="961.38" ybr="533.01" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="2.54" ytl="0.24" xbr="599.85" ybr="677.62" z_order="0">
+    </box>
+  </image>
+  <image id="237" name="aa_poh_haberleri/aa_poh_haberleri_009_44.jpg" width="1024" height="683">
+  </image>
+  <image id="238" name="aa_poh_haberleri/aa_poh_haberleri_009_45.jpg" width="1024" height="693">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="308.00" ytl="123.00" xbr="777.00" ybr="683.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="59.00" ytl="227.00" xbr="287.00" ybr="682.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="0.00" ytl="292.00" xbr="167.00" ybr="686.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="258.00" ytl="222.00" xbr="405.00" ybr="683.00" z_order="0">
+    </box>
+  </image>
+  <image id="239" name="aa_poh_haberleri/aa_poh_haberleri_009_46.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="515.00" ytl="200.00" xbr="903.00" ybr="675.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="366.00" ytl="271.00" xbr="555.00" ybr="678.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="149.00" ytl="249.00" xbr="426.00" ybr="676.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="3.00" ytl="295.93" xbr="264.24" ybr="680.02" z_order="0">
+    </box>
+  </image>
+  <image id="240" name="aa_poh_haberleri/aa_poh_haberleri_009_47.jpg" width="1024" height="675">
+  </image>
+  <image id="241" name="aa_poh_haberleri/aa_poh_haberleri_009_48.jpg" width="1024" height="716">
+  </image>
+  <image id="242" name="aa_poh_haberleri/aa_poh_haberleri_009_49.jpg" width="1120" height="747">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="234.95" ytl="263.76" xbr="729.30" ybr="747.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="semi-auto" occluded="0" xtl="402.07" ytl="45.07" xbr="1119.07" ybr="732.07" z_order="0">
+    </box>
+  </image>
+  <image id="243" name="aa_poh_haberleri/aa_poh_haberleri_009_55.jpg" width="1120" height="630">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="555.00" ytl="281.00" xbr="591.00" ybr="357.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="870.00" ytl="517.00" xbr="938.00" ybr="602.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="804.00" ytl="453.00" xbr="866.00" ybr="540.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="699.00" ytl="359.00" xbr="732.00" ybr="437.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="655.00" ytl="313.00" xbr="693.00" ybr="397.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="257.00" ytl="355.00" xbr="317.00" ybr="480.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="392.00" ytl="283.00" xbr="439.00" ybr="369.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="346.00" ytl="312.00" xbr="392.00" ybr="392.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="232.00" ytl="438.00" xbr="282.00" ybr="559.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="603.00" ytl="300.00" xbr="644.00" ybr="374.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="753.00" ytl="396.00" xbr="795.00" ybr="478.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="197.00" ytl="518.00" xbr="254.00" ybr="602.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="446.00" ytl="284.00" xbr="486.00" ybr="357.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="497.00" ytl="282.00" xbr="536.00" ybr="353.00" z_order="0">
+    </box>
+  </image>
+  <image id="244" name="aa_poh_haberleri/aa_poh_haberleri_009_56.jpg" width="1120" height="805">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="388.93" ytl="288.99" xbr="409.19" ybr="315.48" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="364.78" ytl="260.42" xbr="380.10" ybr="279.12" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="371.79" ytl="274.44" xbr="389.45" ybr="296.26" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="416.20" ytl="311.84" xbr="441.14" ybr="341.45" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="444.26" ytl="334.48" xbr="474.42" ybr="376.92" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="544.77" ytl="381.39" xbr="605.08" ybr="447.28" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="675.00" ytl="458.00" xbr="748.00" ybr="562.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="904.00" ytl="592.00" xbr="1007.00" ybr="753.00" z_order="0">
+    </box>
+  </image>
+  <image id="245" name="aa_poh_haberleri/aa_poh_haberleri_009_57.jpg" width="1120" height="747">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="27.00" ytl="405.00" xbr="92.00" ybr="543.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="586.00" ytl="143.00" xbr="1080.00" ybr="739.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="216.00" ytl="411.00" xbr="264.00" ybr="532.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="498.00" ytl="313.00" xbr="623.00" ybr="736.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="411.00" ytl="409.00" xbr="451.00" ybr="541.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="350.00" ytl="410.00" xbr="399.00" ybr="536.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="445.00" ytl="403.00" xbr="482.00" ybr="556.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="284.00" ytl="414.00" xbr="334.00" ybr="533.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="133.00" ytl="411.00" xbr="184.00" ybr="535.00" z_order="0">
+    </box>
+  </image>
+  <image id="246" name="aa_poh_haberleri/aa_poh_haberleri_009_58.jpg" width="1120" height="747">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="848.00" ytl="194.00" xbr="997.00" ybr="616.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="3.00" ytl="89.00" xbr="443.00" ybr="738.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="412.00" ytl="162.00" xbr="665.00" ybr="737.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="221.00" ytl="136.00" xbr="490.00" ybr="736.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="562.00" ytl="176.00" xbr="829.00" ybr="737.00" z_order="0">
+    </box>
+  </image>
+  <image id="247" name="aa_poh_haberleri/aa_poh_haberleri_009_59.jpg" width="1120" height="747">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="603.00" ytl="19.00" xbr="1119.00" ybr="722.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="252.00" ytl="372.00" xbr="352.00" ybr="728.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="190.00" ytl="422.00" xbr="266.00" ybr="623.00" z_order="0">
+    </box>
+  </image>
+  <image id="248" name="aa_poh_haberleri/aa_poh_haberleri_010_01.jpg" width="750" height="498">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="178.00" ytl="235.00" xbr="270.00" ybr="471.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="631.00" ytl="231.00" xbr="721.00" ybr="483.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="494.00" ytl="225.00" xbr="584.00" ybr="478.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="16.00" ytl="236.00" xbr="109.00" ybr="473.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="347.00" ytl="227.00" xbr="433.00" ybr="473.00" z_order="0">
+    </box>
+  </image>
+  <image id="249" name="aa_poh_haberleri/aa_poh_haberleri_010_03.jpg" width="750" height="500">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="61.00" ytl="31.00" xbr="600.00" ybr="491.00" z_order="0">
+    </box>
+  </image>
+  <image id="250" name="aa_poh_haberleri/aa_poh_haberleri_010_07.jpg" width="384" height="216">
+  </image>
+  <image id="251" name="aa_poh_haberleri/aa_poh_haberleri_011_01.jpg" width="1130" height="636">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="807.00" ytl="88.00" xbr="1130.00" ybr="627.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="386.00" ytl="95.00" xbr="699.00" ybr="628.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="0.00" ytl="83.00" xbr="264.00" ybr="628.00" z_order="0">
+    </box>
+  </image>
+  <image id="252" name="aa_poh_haberleri/aa_poh_haberleri_011_02.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="907.00" ytl="340.00" xbr="1004.00" ybr="567.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="25.00" ytl="348.00" xbr="119.00" ybr="564.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="633.00" ytl="346.00" xbr="718.00" ybr="555.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="370.00" ytl="341.00" xbr="458.00" ybr="560.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="513.00" ytl="348.00" xbr="603.00" ybr="552.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="147.00" ytl="357.00" xbr="235.00" ybr="566.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="759.00" ytl="340.00" xbr="863.00" ybr="556.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="263.00" ytl="353.00" xbr="343.00" ybr="559.00" z_order="0">
+    </box>
+  </image>
+  <image id="253" name="aa_poh_haberleri/aa_poh_haberleri_011_03.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="semi-auto" occluded="0" xtl="291.00" ytl="27.00" xbr="881.70" ybr="672.00" z_order="0">
+    </box>
+  </image>
+  <image id="254" name="aa_poh_haberleri/aa_poh_haberleri_011_04.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="7.00" ytl="75.00" xbr="633.00" ybr="677.00" z_order="0">
+    </box>
+  </image>
+  <image id="255" name="aa_poh_haberleri/aa_poh_haberleri_011_05.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="532.00" ytl="97.00" xbr="675.00" ybr="496.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="342.00" ytl="126.00" xbr="423.00" ybr="443.00" z_order="0">
+    </box>
+  </image>
+  <image id="256" name="aa_poh_haberleri/aa_poh_haberleri_011_06.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="442.00" ytl="52.00" xbr="801.00" ybr="616.00" z_order="0">
+    </box>
+  </image>
+  <image id="257" name="aa_poh_haberleri/aa_poh_haberleri_011_07.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="161.63" ytl="191.95" xbr="481.90" ybr="677.10" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="346.00" ytl="23.00" xbr="766.00" ybr="676.00" z_order="0">
+    </box>
+  </image>
+  <image id="258" name="aa_poh_haberleri/aa_poh_haberleri_011_08.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="manual" occluded="0" xtl="199.16" ytl="383.05" xbr="252.87" ybr="537.86" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="14.00" ytl="311.00" xbr="141.00" ybr="601.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="121.00" ytl="358.00" xbr="213.00" ybr="564.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="253.27" ytl="414.64" xbr="288.81" ybr="536.28" z_order="0">
+    </box>
+    <box label="uniformed_person" source="manual" occluded="0" xtl="276.96" ytl="415.04" xbr="309.74" ybr="532.73" z_order="0">
+    </box>
+  </image>
+  <image id="259" name="aa_poh_haberleri/aa_poh_haberleri_011_09.jpg" width="1024" height="683">
+    <box label="uniformed_person" source="semi-auto" occluded="0" xtl="313.00" ytl="126.00" xbr="966.10" ybr="419.60" z_order="0">
+    </box>
+    <box label="uniformed_person" source="semi-auto" occluded="0" xtl="53.00" ytl="255.00" xbr="903.10" ybr="584.90" z_order="0">
+    </box>
+  </image>
+  <image id="260" name="aa_poh_haberleri/aa_poh_haberleri_011_10.jpg" width="1024" height="682">
+    <box label="uniformed_person" source="auto" occluded="0" xtl="825.00" ytl="224.00" xbr="993.00" ybr="575.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="427.00" ytl="237.00" xbr="572.00" ybr="574.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="197.00" ytl="233.00" xbr="337.00" ybr="577.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="23.00" ytl="251.00" xbr="151.00" ybr="581.00" z_order="0">
+    </box>
+    <box label="uniformed_person" source="auto" occluded="0" xtl="623.00" ytl="237.00" xbr="759.00" ybr="570.00" z_order="0">
+    </box>
+  </image>
+</annotations>

@@ -1,0 +1,7 @@
+names:
+- uniformed_person
+nc: 1
+path: .
+test: test.txt
+train: train.txt
+val: val.txt
