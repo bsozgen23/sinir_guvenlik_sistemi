@@ -5,7 +5,7 @@ def main():
     print('PÖH Tespit Sistemi Eğitimine Başlanıyor...')
     
     # 1. Ön eğitilmiş Large modeli yükle (Eğer yoksa internetten indirir)
-    model = YOLO('yolov8l.pt') 
+    model = YOLO('yolo11l.pt') 
 
     # 2. Üst Düzey Optimizasyonlarla Eğitimi Başlat
     # Veri setinin yolu data.yaml içinde belirtilmiştir.
