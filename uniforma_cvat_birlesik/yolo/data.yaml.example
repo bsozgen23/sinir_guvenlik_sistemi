@@ -1,0 +1,8 @@
+# Eğitim/doğrulama listeleri oluşturulduktan sonra
+# data.yaml olarak kaydedin ve path alanını yolo klasörüne ayarlayın.
+path: /VERI_SETININ/TAM/YOLU/yolo
+train: train.txt
+val: val.txt
+nc: 1
+names:
+  0: uniformed_person
