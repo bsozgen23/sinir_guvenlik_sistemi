@@ -15,15 +15,7 @@ def main():
         print('Önce train_poh.py dosyasını çalıştırarak eğitimi tamamlamalısınız.')
         return
 
-    # test işlemi için de path güncelleyelim (emin olmak için)
-    with open(dataset_yaml, 'r') as f:
-        data_config = yaml.safe_load(f)
-    data_config['path'] = dataset_dir
-    with open(dataset_yaml, 'w') as f:
-        yaml.dump(data_config, f, default_flow_style=False)
-
     model = YOLO(model_path)
-    
     metrics = model.val(data=dataset_yaml, split='test')
     
     print('\n--- TEST SETİ BAŞARI SONUÇLARI ---')
